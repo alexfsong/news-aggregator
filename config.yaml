@@ -1,0 +1,23 @@
+cadence: biweekly
+lookback_days: 14
+max_items_per_source: 30
+
+triage:
+  max_clusters: 12
+
+trending:
+  max_trending: 6
+
+deepen:
+  max_deepened_items: 8
+  enable_whisper: false
+  transcript_char_cap: 16000
+
+output:
+  digest_dir: digests
+  email:
+    enabled: true
+    to_env: DIGEST_EMAIL_TO
+    fallback_to: alexfsong@gmail.com
+    from: "AI Digest <digest@resend.dev>"
+    subject_template: "AI digest — {date}"

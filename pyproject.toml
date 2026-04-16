@@ -1,0 +1,27 @@
+[project]
+name = "news-aggregator"
+version = "0.1.0"
+description = "AI-powered topic-driven news digest, run via Claude Code routines"
+requires-python = ">=3.11"
+dependencies = [
+    "feedparser>=6.0.11",
+    "youtube-transcript-api>=0.6.2",
+    "trafilatura>=1.12",
+    "httpx>=0.27",
+    "typer>=0.12",
+    "jinja2>=3.1",
+    "resend>=2.0",
+    "pyyaml>=6.0",
+    "markdown>=3.6",
+    "python-dateutil>=2.9",
+]
+
+[project.scripts]
+aggregator = "aggregator.cli:app"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["aggregator"]

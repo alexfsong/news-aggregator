@@ -1,0 +1,40 @@
+topics:
+  ai:
+    rss:
+      - name: Simon Willison
+        url: https://simonwillison.net/atom/everything/
+      - name: Anthropic News
+        url: https://www.anthropic.com/news/rss.xml
+      - name: OpenAI Blog
+        url: https://openai.com/blog/rss.xml
+      - name: Google DeepMind
+        url: https://deepmind.google/blog/rss.xml
+      - name: Hugging Face Blog
+        url: https://huggingface.co/blog/feed.xml
+      - name: Import AI (Jack Clark)
+        url: https://jack-clark.net/feed/
+      - name: The Gradient
+        url: https://thegradient.pub/rss/
+      - name: Hacker News (AI, 100+ pts)
+        url: https://hnrss.org/newest?q=AI+OR+LLM+OR+%22artificial+intelligence%22&points=100
+    youtube:
+      - name: Lex Fridman
+        channel_id: UCSHZKyawb77ixDdsGog4iWA
+      - name: Two Minute Papers
+        channel_id: UCbfYPyITQ-7l4upoX8nvctg
+      - name: Yannic Kilcher
+        channel_id: UCZHmQk67mSJgfCCTn7xBfew
+      - name: AI Explained
+        channel_id: UCNJ1Ymd5yFuUPtn21xtRbbw
+    podcasts:
+      - name: Latent Space
+        url: https://api.substack.com/feed/podcast/1084089.rss
+      - name: Dwarkesh Podcast
+        url: https://api.substack.com/feed/podcast/70432.rss
+      - name: The Cognitive Revolution
+        url: https://feeds.libsyn.com/426747/rss
+    news:
+      - name: Google News — AI
+        url: https://news.google.com/rss/search?q=artificial+intelligence+when%3A14d&hl=en-US&gl=US&ceid=US:en
+      - name: MIT Technology Review AI
+        url: https://www.technologyreview.com/feed/
