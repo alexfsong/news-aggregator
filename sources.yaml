@@ -3,10 +3,8 @@ topics:
     rss:
       - name: Simon Willison
         url: https://simonwillison.net/atom/everything/
-      - name: Anthropic News
-        url: https://www.anthropic.com/news/rss.xml
-      - name: OpenAI Blog
-        url: https://openai.com/blog/rss.xml
+      - name: OpenAI News
+        url: https://openai.com/news/rss.xml
       - name: Google DeepMind
         url: https://deepmind.google/blog/rss.xml
       - name: Hugging Face Blog
@@ -36,5 +34,7 @@ topics:
     news:
       - name: Google News — AI
         url: https://news.google.com/rss/search?q=artificial+intelligence+when%3A14d&hl=en-US&gl=US&ceid=US:en
+      - name: Google News — Anthropic
+        url: https://news.google.com/rss/search?q=Anthropic+Claude+when%3A14d&hl=en-US&gl=US&ceid=US:en
       - name: MIT Technology Review AI
         url: https://www.technologyreview.com/feed/

@@ -3,7 +3,27 @@
     "allow": [
       "Bash(command -v uv)",
       "Bash(uv --version)",
-      "Bash(command -v python3)"
+      "Bash(command -v python3)",
+      "Bash(claudit add *)",
+      "Bash(uv run *)",
+      "Bash(python3 -c \"import feedparser; p=feedparser.parse\\('https://simonwillison.net/atom/everything/'\\); print\\('entries', len\\(p.entries\\), 'status', getattr\\(p,'status',None\\), 'bozo', p.bozo\\)\")",
+      "Bash(python3 -c \"import feedparser\")",
+      "Bash(python3 -m pip show feedparser)",
+      "Bash(curl -sS -o /dev/null -w \"simonwillison:%{http_code} %{size_download}\\\\n\" --max-time 10 https://simonwillison.net/atom/everything/)",
+      "Bash(curl -sS -o /dev/null -w \"anthropic:%{http_code} %{size_download}\\\\n\" --max-time 10 https://www.anthropic.com/news/rss.xml)",
+      "Bash(curl -sS -o /dev/null -w \"openai:%{http_code} %{size_download}\\\\n\" --max-time 10 https://openai.com/blog/rss.xml)",
+      "Bash(curl -sS -o /dev/null -w \"hnrss:%{http_code} %{size_download}\\\\n\" --max-time 10 \"https://hnrss.org/newest?q=AI&points=100\")",
+      "Bash(curl -sS -o /dev/null -w \"yt:%{http_code} %{size_download}\\\\n\" --max-time 10 \"https://www.youtube.com/feeds/videos.xml?channel_id=UCSHZKyawb77ixDdsGog4iWA\")",
+      "Bash(curl -sSI --max-time 10 https://openai.com/blog/rss.xml)",
+      "Bash(curl -sSI --max-time 10 https://www.anthropic.com/news/rss.xml)",
+      "Bash(curl -sS --max-time 10 https://www.anthropic.com/rss.xml -o /dev/null -w \"anthropic-root:%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sS --max-time 10 https://www.anthropic.com/news/feed.xml -o /dev/null -w \"anthropic-feed.xml:%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sS --max-time 10 https://www.anthropic.com/news/rss -o /dev/null -w \"anthropic-rss:%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sS --max-time 10 https://openai.com/news/rss.xml -o /dev/null -w \"openai-news:%{http_code} %{size_download}\\\\n\")",
+      "Bash(curl -sSL --max-time 10 https://openai.com/blog/rss.xml -o /tmp/oai.xml -w \"openai-follow:%{http_code} %{size_download} %{url_effective}\\\\n\")",
+      "Read(//tmp/**)",
+      "Bash(curl -sS --max-time 10 \"https://news.google.com/rss/search?q=Anthropic+Claude+when%3A14d&hl=en-US&gl=US&ceid=US:en\" -o /tmp/a.xml -w \"%{http_code} %{size_download}\\\\n\")",
+      "Bash(python3 -c \"import re; x=open\\('/tmp/a.xml'\\).read\\(\\); print\\('items via regex:', len\\(re.findall\\(r'<item>', x\\)\\)\\)\")"
     ]
   }
 }
