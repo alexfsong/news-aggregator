@@ -1,0 +1,48 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "DeepSeek-V4 million-token context model launch",
+      "item_ids": ["d8c205e461387e28"],
+      "heat_score": 0.64,
+      "why": "1 source, published Apr 24 (within last 3 days), fully novel, high-signal frontier model release"
+    },
+    {
+      "id": "c2",
+      "theme": "AI agent capabilities and benchmarks",
+      "item_ids": ["19895f0603aa34fc", "324fff852d0d2555"],
+      "heat_score": 0.33,
+      "why": "2 items (Ecom-RLVE agent training + VAKRA agent benchmark), both novel, older dates"
+    },
+    {
+      "id": "c3",
+      "theme": "Hugging Face ecosystem developer tooling",
+      "item_ids": ["3d0660d0bdd05c10", "313d6b63a37bc76a", "6495046366363b51"],
+      "heat_score": 0.37,
+      "why": "3 items covering Transformers.js Chrome extension, Transformers→MLX port, multimodal Sentence Transformers training; all novel"
+    },
+    {
+      "id": "c4",
+      "theme": "Edge and on-device AI deployment",
+      "item_ids": ["e7da6074c9e00620", "0d16a721c30364f4"],
+      "heat_score": 0.33,
+      "why": "2 items: Gemma 4 VLA on Jetson Orin Nano Super + HoloTab browser AI companion; both novel"
+    },
+    {
+      "id": "c5",
+      "theme": "AI and cybersecurity: why openness matters",
+      "item_ids": ["c6dd2ccbedaddf37"],
+      "heat_score": 0.29,
+      "why": "1 item, published Apr 21, novel; policy/opinion angle on open-source AI security"
+    },
+    {
+      "id": "c6",
+      "theme": "Arabic LLM evaluation and multilingual AI",
+      "item_ids": ["c1de2060534cbbf5"],
+      "heat_score": 0.29,
+      "why": "1 item, published Apr 21, novel; QIMMA quality-first Arabic LLM leaderboard"
+    }
+  ],
+  "trending": ["c1", "c3", "c2", "c4", "c5", "c6"],
+  "standalone": []
+}
