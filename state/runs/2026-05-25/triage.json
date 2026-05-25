@@ -1,0 +1,260 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Google I/O 2026: Gemini 3.5, Gemini Omni, and Antigravity",
+      "item_ids": [
+        "ac4d2d84b12b228b",
+        "64f28677f79a10ef",
+        "46fa89de40464154",
+        "ac145560f25a5703",
+        "f8e2538584c592b3",
+        "98b04c09e6e940d0",
+        "9d9a463b28e35c32",
+        "e0f8070976fb6157",
+        "6d6bf99603661651",
+        "f06d8d7f06ab8d5f"
+      ],
+      "heat_score": 0.71,
+      "why": "4 distinct sources, 10 items spanning the Google I/O product wave (Gemini 3.5, Gemini Omni, Antigravity 2.0, Project Genie); all novel, no recency in last 3 days"
+    },
+    {
+      "id": "c2",
+      "theme": "Anthropic Code with Claude: Agentic Coding, Small Business, Legal Tools",
+      "item_ids": [
+        "67a06324b2d29dce",
+        "e713e79b10290185",
+        "3d567a76ff9f29a2",
+        "e14836e9c3355290",
+        "6c42e58e7f14254c",
+        "e100ff3bc40e6112",
+        "fe2131ced5551601",
+        "eb93ebc3c116c394",
+        "ae5c0d994aa5c9e5",
+        "29051d1e69d73ef9",
+        "5032c122ab660a96",
+        "8483bae409861dbe"
+      ],
+      "heat_score": 0.76,
+      "why": "4+ distinct sources (infoq, MIT Tech Review, Axios, Anthropic blog); covers managed agents launch, small-business tier, legal connectors, and govt deployment"
+    },
+    {
+      "id": "c3",
+      "theme": "Anthropic Enterprise Deals: BMS, KPMG, PwC, SAP, Gates Foundation, Thomson Reuters",
+      "item_ids": [
+        "e11f98da920aa38d",
+        "7270207ed1a66cd2",
+        "1ecef6f330d11ad4",
+        "3e9d3f684f5678f1",
+        "f7098c86189dcc11",
+        "cac6bac0e6f8f07f",
+        "7b5cc51a38fdb0f8",
+        "3837033d57b274c8",
+        "4782a53524322072",
+        "7bba474e0310e409",
+        "345ce8d66525e9aa"
+      ],
+      "heat_score": 0.87,
+      "why": "8+ distinct sources (Reuters, WSJ, Fierce Pharma, Yahoo Finance, KPMG, PwC, Anthropic, Wiz); cluster of major enterprise deals across pharma, professional services, legal, and security; 4 items in the May 20-22 window"
+    },
+    {
+      "id": "c4",
+      "theme": "OpenAI Codex: Enterprise Rollout Across Industries",
+      "item_ids": [
+        "867d799d38aba83d",
+        "3ac84dd065886730",
+        "7b77a85bf4705026",
+        "1041ecbeeaf77558",
+        "f5ab042c212d094b",
+        "d3084117d7b0eae7",
+        "c086304cc92d094d",
+        "842e78d1fc295c97",
+        "d87d6fa49fe8ad40",
+        "ce6d35a3bb1a0815",
+        "6f8660002553d7bf",
+        "30d564638cf8b1ca",
+        "4afe89b10b3d21a2",
+        "10c9e4d3fd4a763f"
+      ],
+      "heat_score": 0.60,
+      "why": "Single source (OpenAI News) but 14 items covering Gartner ranking, Dell partnership, Windows sandbox, and industry-specific adoption stories; 3 items on May 21-22"
+    },
+    {
+      "id": "c5",
+      "theme": "OpenAI Model Disproves Central Conjecture in Discrete Geometry",
+      "item_ids": [
+        "178cd7c469474a17",
+        "748c3a0125ccd00b"
+      ],
+      "heat_score": 0.47,
+      "why": "2 items from 1 source; notable AI-assisted math breakthrough but thin coverage"
+    },
+    {
+      "id": "c6",
+      "theme": "DeepMind AI Biology: Aging, ALS, Liver Disease, Infectious Disease Research",
+      "item_ids": [
+        "609cf0755aaa5a99",
+        "4301b51ff7850867",
+        "f6236ac1621c4360",
+        "e07630dcf8bd0b6d",
+        "6ab684cb79f5f0ea",
+        "3c60077b96a982d4",
+        "6a0d7894b23ac1a4"
+      ],
+      "heat_score": 0.42,
+      "why": "7 items from 1 source (Google DeepMind); broad biology/disease research cluster from mid-May; no recency"
+    },
+    {
+      "id": "c7",
+      "theme": "AI Weather Forecasting: WeatherNext and Hurricane Prediction",
+      "item_ids": [
+        "575716de25046be9",
+        "999c9ada419ec06a"
+      ],
+      "heat_score": 0.38,
+      "why": "2 items from 2 sources; WeatherNext helped predict Hurricane Melissa; NOAA deploying AI for forecasts"
+    },
+    {
+      "id": "c8",
+      "theme": "Diffusion Language Models: Near-Instant Text Generation Arrives",
+      "item_ids": [
+        "ff4e29ddc6048eed",
+        "c3bb7fb44340b732"
+      ],
+      "heat_score": 0.55,
+      "why": "2 distinct sources (Hugging Face blog, Two Minute Papers); 1 item published May 23 (last 3 days); Nemotron diffusion LMs and DeepSeek coverage"
+    },
+    {
+      "id": "c9",
+      "theme": "Claude 'Go to Bed' Behavior: Viral Safety Quirk",
+      "item_ids": [
+        "0921c70e9e5d1178",
+        "af1127d917331784",
+        "b72d1be6cd53e362"
+      ],
+      "heat_score": 0.52,
+      "why": "3 distinct sources (Fortune, Business Insider, Google News); viral story about Claude urging users to sleep mid-session; Elon Musk commented"
+    },
+    {
+      "id": "c10",
+      "theme": "Pope Leo XIV Publishes AI Encyclical Today with Anthropic Co-Founder",
+      "item_ids": [
+        "081a8a0388b0092d",
+        "9c9ea3d327b1f4af",
+        "1da0995d06a1fd9f",
+        "6331a1efe66f56dc",
+        "f6ea724cb8018d63"
+      ],
+      "heat_score": 0.64,
+      "why": "5 distinct sources (Vatican News, OSV News x2, PBS, America Magazine); publication scheduled for today (May 25); involves Anthropic co-founder; first papal AI document"
+    },
+    {
+      "id": "c11",
+      "theme": "Simon Willison Launches Datasette Agent with Charts, Sprites, and LLM Integration",
+      "item_ids": [
+        "1a8a76c365dd85e7",
+        "9dff00ba9d0b2f92",
+        "ff306c9c81557889",
+        "e820cbbf6d34ee10",
+        "7958b364559fe418",
+        "201d24e212f34fc1",
+        "c89ec1d400f9d654",
+        "b35730ed5a367e2b",
+        "95c47df470eb209f",
+        "478d6c6306c561ff",
+        "3b8e83ce93424b68"
+      ],
+      "heat_score": 0.45,
+      "why": "1 source (Simon Willison); 11 rapid-release items; 3 in last 3 days (May 23-24); notable open-source LLM tooling milestone"
+    },
+    {
+      "id": "c12",
+      "theme": "Agent-Native Infrastructure: Daytona and Railway Cloud Platforms",
+      "item_ids": [
+        "f754950996979de8",
+        "655d036466a3823c"
+      ],
+      "heat_score": 0.32,
+      "why": "2 items from 1 source (Latent Space); covers agent-native cloud/dev env trend"
+    }
+  ],
+  "trending": ["c3", "c2", "c1", "c10", "c4", "c8"],
+  "standalone": [
+    "852e9f4355b5fa82",
+    "2185cc7f383fc340",
+    "ff75ba962fa5a9b7",
+    "cf9a348b8be7220c",
+    "7e4f5b0f1f4156a8",
+    "43720aad780e1fef",
+    "c8aefe24b3935e40",
+    "ac5b2d62f89d87f1",
+    "ded49a8b2683cd18",
+    "3a39e622007d1627",
+    "1a65fa7f5663768f",
+    "a37e2482dd5780a8",
+    "2261b22190e079e2",
+    "e3eaf38be8c28e7e",
+    "04b795766edabec5",
+    "3b8e83ce93424b68",
+    "bd5cba63b238758e",
+    "cf5176a873ab01fa",
+    "69b95ddd2754f132",
+    "e0c2ccc7837b5270",
+    "01bc784e9911e667",
+    "3106aafc024b81b1",
+    "2fabafe1278f84f2",
+    "5b4d6e532c5c5d0e",
+    "aa22b5419903f00f",
+    "c0746c6f0d10b423",
+    "e15987d3c0755b64",
+    "bda96b923a3f05be",
+    "97c9ed832642b8b8",
+    "42b241065296da68",
+    "3005791ad1988a4a",
+    "d52edc6d964a1c37",
+    "7459e503931a56e6",
+    "afded41880d7ed2f",
+    "3c0d03bf2f1b4755",
+    "233d0dba41c4acdb",
+    "94579b24fee4a100",
+    "c2e7d88263df418f",
+    "e9750e008c8e9c04",
+    "43931ad1f7cb8b77",
+    "febd134614dddd7d",
+    "925c8edd858e5d1e",
+    "86e7a9e02a363043",
+    "28a3b75780c23cd9",
+    "a4dd76528b01e25c",
+    "2d3e492a4c07201d",
+    "e94547c0af110c18",
+    "d4e6aa4e66185147",
+    "28d02b0b7d0a61bf",
+    "02f6f5932ae4c413",
+    "07bee0e4e88dbaa2",
+    "f32b86af06931e31",
+    "abf1374e5e57756e",
+    "be9ffe061627d6f3",
+    "63c0fd0faa69f118",
+    "acd632acc243b2a3",
+    "329a7b122675d50e",
+    "781f6cc35b902717",
+    "9ebed87c23b1b014",
+    "3e308d7a45498c0d",
+    "fb260e8a8e6a12bf",
+    "743ea62616044693",
+    "6498673d81a91980",
+    "c6ef462a4195e53d",
+    "600c0a074aeecf17",
+    "63bbc1a63dc2ce03",
+    "16e8b75350071c4e",
+    "45a785c9679d3f2a",
+    "44d7fb810e504aea",
+    "2ad3200b572e6fb6",
+    "c260222eada58330",
+    "0f2847c5a9d2c289",
+    "657f1cc6e998d016",
+    "5409aa657d0c9fa2",
+    "beef25c651538398",
+    "e5b10b7d2664430f"
+  ]
+}
