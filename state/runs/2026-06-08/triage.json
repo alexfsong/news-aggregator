@@ -1,0 +1,102 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Anthropic's IPO march and $965B valuation surge",
+      "item_ids": [
+        "25cf6747b427607a",
+        "8897e1cc0482c2de",
+        "7ef3aa20a562b4fb",
+        "1ad4fd546046c030",
+        "fb6497ab39feac04",
+        "f83291efe0d7a3aa",
+        "5882407110cd6be4",
+        "aa68511737a68189",
+        "8216a87a4e11aa6d"
+      ],
+      "heat_score": 0.84,
+      "why": "9 distinct outlets (NYT, WSJ, Forbes, AP, CBS, Fast Company, Yahoo Finance, Anthropic, Willison) on the $65B raise/IPO filing/$965B valuation; story still fresh as of 6/6; first appearance in any digest"
+    },
+    {
+      "id": "c2",
+      "theme": "Anthropic warns Claude is self-improving faster than expected, floats halting frontier development",
+      "item_ids": [
+        "e7db9cd0311d3170",
+        "b1744d7976615bc7",
+        "7cf011597f6e1289"
+      ],
+      "heat_score": 0.85,
+      "why": "3 distinct outlets (Tom's Hardware, Yahoo Finance UK, Scientific American) all published 6/5 — 100% of the cluster lands in the last 3 days; novel, no prior coverage in digests"
+    },
+    {
+      "id": "c3",
+      "theme": "Claude Mythos/Project Glasswing security push collides with Meta AI hack scrutiny",
+      "item_ids": [
+        "13fca4b93cf80882",
+        "86b4474f6bdd60e2",
+        "30be67d79d3ef246",
+        "e7c8aeae26de7c88",
+        "264693d9d3842fe5",
+        "44924a64fbed4d0c",
+        "1836e3efb005179e"
+      ],
+      "heat_score": 0.70,
+      "why": "5 distinct outlets (TechCrunch, Help Net Security, Anthropic, MIT Tech Review, Willison) spanning a product-scaling story and a security-credibility debate; 2 of 7 items from 6/5"
+    },
+    {
+      "id": "c4",
+      "theme": "Claude Opus 4.8 launch and critical reception",
+      "item_ids": [
+        "a262637e2f221c4b",
+        "e55c9056ff8a8ba8",
+        "4250a20d6c55c098",
+        "a9b061e54443a065",
+        "66b6e7db13102a5d",
+        "72b546dd8b6e8c34",
+        "199d14f09eb58130",
+        "1934b89e311f4441"
+      ],
+      "heat_score": 0.74,
+      "why": "8 distinct outlets (Anthropic, AWS, Axios, inc.com, 9to5Mac, Willison, AI Explained, Two Minute Papers) covered the same launch — highest raw coverage of any cluster — but every item is 5-11 days old, so recency is zero"
+    },
+    {
+      "id": "c5",
+      "theme": "Trump's AI executive order reshapes Washington's AI policy debate",
+      "item_ids": [
+        "40fd50568ea5f16c",
+        "8ca51f789b48827e",
+        "a55220a1bd4cf26a",
+        "f7795b5047d80133",
+        "d07aef7a7cc7cad0"
+      ],
+      "heat_score": 0.66,
+      "why": "5 distinct outlets (MIT Tech Review, Politico, Bloomberg Law, CNAS, Consumer Bankers Assoc.) reacting to the same executive order; 1 of 5 items (Politico, profit-share meeting) lands 6/5"
+    },
+    {
+      "id": "c6",
+      "theme": "Mainstream press turns skeptical: AI consciousness, control, and cognitive-cost debates",
+      "item_ids": [
+        "c8e0d8a317776116",
+        "4fdbd88339c13752",
+        "1f4e86099c0ac3bd",
+        "f940a6b769514aa4",
+        "268f82407d1f29c7"
+      ],
+      "heat_score": 0.69,
+      "why": "5 major outlets (MIT Tech Review, The Atlantic, Washington Post, The Economist, Willison) independently publishing AI-doubt commentary within the same week; 2 of 5 items from 6/7, the most recent items in the whole fetch"
+    }
+  ],
+  "trending": ["c2", "c1", "c4", "c3", "c6", "c5"],
+  "standalone": [
+    "980b7eef242b3dbf",
+    "e336abe003c70af1",
+    "51055059a409050f",
+    "f0bd0f23fddffb4b",
+    "baa01b6e547f003a",
+    "093c6bca9f0f1e13",
+    "bc14d9698497a7cc",
+    "2312b8953c4dd8c0",
+    "e4f15146953babc1",
+    "c2410e02cd89face"
+  ]
+}
