@@ -1,0 +1,249 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Anthropic Claude Science launch for researchers and drug discovery",
+      "item_ids": [
+        "2ccdf15f0d98c4de",
+        "445ddbbde117ea60",
+        "1f890e061cfa6d5d",
+        "d853a23969b65194",
+        "509080a16e760c25",
+        "ef562f229f0ec437",
+        "76df238cb3bb28cc",
+        "09b9726450b61f6d",
+        "da23f3f35f9a83a7",
+        "2340c4d6a8d98bcd"
+      ],
+      "heat_score": 0.85,
+      "why": "10 items across 7 distinct outlets (Reuters, CNBC, MIT Tech Review, TechCrunch, STAT, Northeastern, Anthropic); all clustered Jun 30–Jul 1; entirely novel (no prior digests)"
+    },
+    {
+      "id": "c2",
+      "theme": "Anthropic Fable 5 / Claude Sonnet 5 launch and US export controls lifted",
+      "item_ids": [
+        "7684361569c5485c",
+        "08cad611b865c243",
+        "2b3542b603eb3c3f",
+        "44df8c78b3585b01",
+        "74418be132e0a825",
+        "0824a1af7f09dd86",
+        "2c8ee4cc205cc78d",
+        "eb43a1dd78ad78c1",
+        "a8b7864bcbe2c5c7",
+        "db5961db45bbd60a",
+        "3c098af573145eec",
+        "565471152c0c9d20"
+      ],
+      "heat_score": 0.92,
+      "why": "12 items across 6 distinct source types (Anthropic blog, Simon Willison, AI Explained, HN, DW, Al Jazeera); spans Jun 26–Jul 3 with jailbreak details post Jul 3; all novel"
+    },
+    {
+      "id": "c3",
+      "theme": "Anthropic vs Alibaba: illicit Claude access and China loophole crackdown",
+      "item_ids": [
+        "4b45372e09fa0e17",
+        "bb7e5c3c83e36698",
+        "4e90bf941502b4ad",
+        "acb0385a40388f0e",
+        "98c15e01bb20b81a"
+      ],
+      "heat_score": 0.82,
+      "why": "5 items across WSJ, Reuters (x2), Financial Times, Simon Willison; freshest item Jul 4; all novel"
+    },
+    {
+      "id": "c4",
+      "theme": "OpenAI previews GPT-5.6 Sol and unveils Broadcom inference chip",
+      "item_ids": [
+        "0c30a3b1a36966c5",
+        "4f46162389d6aad2",
+        "dba4c8d6bec9cd41"
+      ],
+      "heat_score": 0.72,
+      "why": "3 items: OpenAI blog, Two Minute Papers reaction; Jun 24–Jul 1; all novel"
+    },
+    {
+      "id": "c5",
+      "theme": "Zuckerberg says AI agents progressing slower than expected; Meta caps token spending",
+      "item_ids": [
+        "6de5efb56d234d14",
+        "3f5e8c27bc5a039e",
+        "03c67dae9af34cff"
+      ],
+      "heat_score": 0.78,
+      "why": "3 HN items (100+ pts each); freshest Jul 5; signals industry recalibration; all novel"
+    },
+    {
+      "id": "c6",
+      "theme": "Google DeepMind ships Nano Banana 2 Lite, Gemini Omni Flash, and computer use",
+      "item_ids": [
+        "90d1cca2b4a9eb32",
+        "1361433c5a601058",
+        "7946f3cb605532fb",
+        "468ddd309d1e3ecf"
+      ],
+      "heat_score": 0.68,
+      "why": "4 items across DeepMind blog and Simon Willison; freshest Jul 3 (A24 partnership); all novel"
+    },
+    {
+      "id": "c7",
+      "theme": "Simon Willison uses Claude Fable to write sqlite-utils 4.0 for $149",
+      "item_ids": [
+        "f2aef5736c46964c",
+        "e4121153c9e556f4",
+        "9921cc02f617a7ca"
+      ],
+      "heat_score": 0.76,
+      "why": "3 items all within last 2 days (Jul 5–6, 100% recency); real-world AI coding cost story; all novel"
+    },
+    {
+      "id": "c8",
+      "theme": "Anthropic Claude Tag: AI agent embedded in Slack as a virtual employee",
+      "item_ids": [
+        "4fb8b5e75cac2fdf",
+        "535b8cc6c73e6d3b",
+        "06209d8838013e2a",
+        "f2b6800600383a27"
+      ],
+      "heat_score": 0.65,
+      "why": "4 items across Fortune, TechCrunch, Anthropic, Reuters; all Jun 23; all novel"
+    },
+    {
+      "id": "c9",
+      "theme": "California Governor Newsom partners with Anthropic for state government AI",
+      "item_ids": [
+        "8e6e71107040aec6",
+        "3113c5519845820b"
+      ],
+      "heat_score": 0.60,
+      "why": "2 items across CA.gov and Politico; Jun 29; all novel"
+    },
+    {
+      "id": "c10",
+      "theme": "AI in education: tutoring study shows 1 SD gains; mass exam fraud at Brown",
+      "item_ids": [
+        "81d00a8984368503",
+        "6fea644950971268"
+      ],
+      "heat_score": 0.68,
+      "why": "2 HN items (100+ pts); freshest Jul 5; opposing poles of AI-in-education story; all novel"
+    },
+    {
+      "id": "c11",
+      "theme": "AI jailbreaks and red-teaming: prompt injection incidents and Mythos safety research",
+      "item_ids": [
+        "96c2c59355c52c6f",
+        "49fd10baccaf36ab",
+        "9e2603e73b04eecc"
+      ],
+      "heat_score": 0.62,
+      "why": "3 items: Simon Willison (x2), Latent Space; Jun 22–26; all novel"
+    },
+    {
+      "id": "c12",
+      "theme": "Godot game engine bans AI-authored code contributions",
+      "item_ids": [
+        "19c025704d1e9ff1"
+      ],
+      "heat_score": 0.64,
+      "why": "1 HN item (100+ pts); Jul 1; signals open-source AI policy divide; all novel"
+    }
+  ],
+  "trending": ["c2", "c1", "c3", "c5", "c7", "c4"],
+  "standalone": [
+    "519f80afd8393c71",
+    "1b4520211793aff4",
+    "67eabbe3a1a827b7",
+    "5ee6036dedcd8753",
+    "b4093e7631cf6415",
+    "ad57ac62d6823f5e",
+    "cdf115301740f537",
+    "0f00188f80ffc21a",
+    "2a9d3f54bfa396db",
+    "01ddf7f809e9bc5a",
+    "aead7bf9d848986e",
+    "da8a0ee15c2c6154",
+    "3c81ddafb3c6c4f3",
+    "9e78eeb63f00c9d0",
+    "9ba0162829b80dcb",
+    "5cb27f6ae611e0eb",
+    "debdd58e3d19797c",
+    "c3529b1bd52b6d44",
+    "c3f14dac7c2a1d3b",
+    "f62407a5a7ba055e",
+    "4523f4fc46f9eff4",
+    "261b3485b3feeffe",
+    "7d8d4736311b9ca3",
+    "7ea004dc195f5f73",
+    "43c44b7968b4a26b",
+    "6ec2f759f8c104ba",
+    "d192ae4c1e215a72",
+    "2265b57fc9033e6b",
+    "b5ff16ac08eadfd5",
+    "2d060bea664abe12",
+    "c3499d87ca5983f7",
+    "2b01129d837de260",
+    "99c55bd0c83de54a",
+    "2219ec3f4426c8cb",
+    "185e44eaeb5908ae",
+    "3ceefdc718a68fce",
+    "e0def09849cddf8f",
+    "be430c105136c67a",
+    "7d9d0a22cd6479ca",
+    "fe748ea31b2479ad",
+    "90960fb6ae107ece",
+    "dd55a90a8161bf74",
+    "cbbfffc62acde72e",
+    "fbd144ab3e078ac4",
+    "bcefa0db3012191e",
+    "ee96644e7bbf996e",
+    "18e5f316aafb0763",
+    "5a34d59e6c525625",
+    "31a54090a0fbaed2",
+    "1e79dc0b44318d25",
+    "531916a268b7a763",
+    "34ce78c7f09bc938",
+    "5aed2a56f979ba01",
+    "c033c13ab1b63205",
+    "5d779a3b50054718",
+    "9524211a480844ec",
+    "22ef840b43a1f1a8",
+    "dbbaa73a78b7779e",
+    "38e8c8c8671cb072",
+    "80c856e279be1826",
+    "bb343eeb5d8170a3",
+    "93db104c54f7451b",
+    "fb1e7c28ed9b7667",
+    "d04f2d0a8db23fda",
+    "ed59f4dce07f659d",
+    "24ee461bc075dc81",
+    "3b6eb55592e3305a",
+    "4f9d63e8d756f056",
+    "3da8bbd4881659d6",
+    "45ded38c5e702552",
+    "654b17fde2f394ef",
+    "d365357ebda45841",
+    "30f833f94927130b",
+    "e9f2361727eac953",
+    "7d50831dace49d38",
+    "fe33ef8e878f2775",
+    "7e8481af58b69d29",
+    "4e3d93ce40a906c3",
+    "e840269ab5ed1649",
+    "6cdbf09040b6ff62",
+    "e4b0fde21c6b5ef9",
+    "a691e56b64013b8d",
+    "72626af0bcd64740",
+    "276595933bbc25da",
+    "dcfc4294bb1c4353",
+    "cc8c7171890f873a",
+    "2ebcf53e0c31253a",
+    "ffbdf59feaa483fb",
+    "7b48e2c2e8b9bd48",
+    "f6f3ac3eb2f02722",
+    "635d30ba7556bc6f",
+    "b93ce574750c7f13",
+    "d410d20e3b83b389",
+    "0b275914fa4bfb88"
+  ]
+}
