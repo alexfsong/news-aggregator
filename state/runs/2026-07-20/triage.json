@@ -1,0 +1,266 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "China's Claude Code backdoor alert and Anthropic response",
+      "item_ids": [
+        "bd364043d7d34de1",
+        "1951008cd5bbdee3",
+        "47d08917a49d26fc",
+        "2d4420e89d508439",
+        "185d49dce771f4f1",
+        "dba94bd1f917e9bc",
+        "d98bfe1e9a9ee93e"
+      ],
+      "heat_score": 0.75,
+      "why": "6 distinct outlets (Reuters, WSJ, CNBC, CBS, SCMP, Malwarebytes) covering China's backdoor claim; fully novel"
+    },
+    {
+      "id": "c2",
+      "theme": "Kimi K3 open-frontier model launch and demand surge",
+      "item_ids": [
+        "7632e1cd486440a0",
+        "3f127c15ac0b36ad",
+        "e2620b2fe8ae3a16",
+        "cbf8be8068fb364c",
+        "0ef57fd484f34603"
+      ],
+      "heat_score": 0.85,
+      "why": "4 distinct sources; 3 of 5 items in last 3 days including Moonshot subscription suspension (7/19); fully novel"
+    },
+    {
+      "id": "c3",
+      "theme": "Anthropic launches Claude Cowork on mobile and web",
+      "item_ids": [
+        "b73ecfc6bbfcad38",
+        "1efc25caf09edd2c",
+        "30e4c127f316636d",
+        "a9a5e1634ae7a035"
+      ],
+      "heat_score": 0.72,
+      "why": "4 distinct outlets (NBC, Verge, ZDNET, WIRED) on same day; fully novel"
+    },
+    {
+      "id": "c4",
+      "theme": "OpenAI launches GPT-5.6 across ChatGPT and Microsoft 365",
+      "item_ids": [
+        "07cdc9583084e54e",
+        "4645639069c816e0",
+        "68a0cc8c29c64abb",
+        "1d9bb2a6921b3d0c",
+        "3af1c619b3bc2e61",
+        "cfa71f09224e5b35"
+      ],
+      "heat_score": 0.70,
+      "why": "4 distinct sources covering GPT-5.6 rollout across consumer and enterprise; model comparison HN thread; fully novel"
+    },
+    {
+      "id": "c5",
+      "theme": "Anthropic launches Claude for Teachers with free premium access",
+      "item_ids": [
+        "d35851e62993f5ad",
+        "66162f6827ce9eac",
+        "99d20df30af88687",
+        "880fcc1ad6ac3580",
+        "9b64473d9c04100a"
+      ],
+      "heat_score": 0.74,
+      "why": "4 distinct outlets; coverage extends to 7/17; fully novel"
+    },
+    {
+      "id": "c6",
+      "theme": "AI hurts human decision-making and introduces hiring bias",
+      "item_ids": [
+        "7aaa9cdcc737217f",
+        "50815725878583fd",
+        "7a5f27fa3e299bf0",
+        "aad1b388dbe5c131"
+      ],
+      "heat_score": 0.80,
+      "why": "3 distinct sources; all items within last 3 days (7/19-7/20); converging evidence on AI accuracy harms; fully novel"
+    },
+    {
+      "id": "c7",
+      "theme": "Claude Fable 5 made permanent after repeated extensions",
+      "item_ids": [
+        "b7ef4709b9278224",
+        "0f909aa80df8d478",
+        "9a6db1bc46a166b0",
+        "370a15a7162e2692",
+        "5b4f2746794bc6e0"
+      ],
+      "heat_score": 0.60,
+      "why": "3 distinct sources; novel; slightly older"
+    },
+    {
+      "id": "c8",
+      "theme": "OpenAI's GPT-Red: red-teaming LLM for safety",
+      "item_ids": [
+        "87de5205dba82c35",
+        "8a7bd389295e9198",
+        "2b596cabe1c2456f"
+      ],
+      "heat_score": 0.58,
+      "why": "2 distinct sources (OpenAI blog + MIT Tech Review); novel"
+    },
+    {
+      "id": "c9",
+      "theme": "Claude's inner workings and interpretability research",
+      "item_ids": [
+        "3d965544587aede9",
+        "ac2f325270401fbb",
+        "73cc70650f992df1",
+        "e4c51a7f59427a49",
+        "a584cf995d86e0ce"
+      ],
+      "heat_score": 0.62,
+      "why": "3 distinct sources (Two Minute Papers x2, MIT, Anthropic); novel; spread across two weeks"
+    },
+    {
+      "id": "c10",
+      "theme": "29 countries form global AI cooperation body at Shanghai summit",
+      "item_ids": [
+        "a71d083fa6c3b65e",
+        "8c0c6efd6e80d582",
+        "f29fe8799f9891bb",
+        "6aed4478f9101044"
+      ],
+      "heat_score": 0.55,
+      "why": "3 distinct sources; recency 2/4 in last 3 days; novel"
+    },
+    {
+      "id": "c11",
+      "theme": "Inkling open-weights model from Thinking Machines",
+      "item_ids": [
+        "9580b80faa872766",
+        "a7f9434917b4013d"
+      ],
+      "heat_score": 0.50,
+      "why": "2 sources (HF Blog + Simon Willison); novel"
+    },
+    {
+      "id": "c12",
+      "theme": "Hugging Face security incident disclosure July 2026",
+      "item_ids": [
+        "80053799352a6ba9"
+      ],
+      "heat_score": 0.52,
+      "why": "1 source but high-impact security disclosure; novel"
+    }
+  ],
+  "trending": ["c2", "c6", "c1", "c5", "c3", "c4"],
+  "standalone": [
+    "e1759c9c3ead2881",
+    "34e660dcc0db61dc",
+    "2207080a1c8dacfa",
+    "ddb285b06e70c65b",
+    "bc5487870ee28aad",
+    "7e828d8b84ce4de2",
+    "aed2efea1cdd1a86",
+    "f2e8e2410c84f9df",
+    "35901311a4cd8d99",
+    "defac9bc88899bff",
+    "7aadaf60d742e585",
+    "32b7b8572a3021b5",
+    "b67ce2f757249680",
+    "e4a26faf95aead34",
+    "f118ff0774e45b58",
+    "58d950b6f6a2052c",
+    "c6369c5357f017d8",
+    "837ad90672d1f90f",
+    "99c02cd703dfeb50",
+    "749c900807a46477",
+    "f16e4e121a1f2604",
+    "6367e9156da26f19",
+    "a5870ecd41280eab",
+    "d7950d41e2b8ea6c",
+    "9547f18c4b2cae83",
+    "73ffbeb651d4bb62",
+    "b88f28236128f64c",
+    "38e02054140f1b34",
+    "d3084117d7b0eae7",
+    "842e78d1fc295c97",
+    "d615070043a8dff7",
+    "baef3028c9b62724",
+    "34a0efb87fbbe9c9",
+    "67d11493d901335e",
+    "cee2ee0ef02b139a",
+    "edac0fc21c90e235",
+    "b050c923fc39f1c9",
+    "e7b28a2715db9c99",
+    "8959baa2073b482d",
+    "c973ade8b3257b51",
+    "8c00d0cb6db153da",
+    "862d033f1dc49521",
+    "ef723752717e69c6",
+    "803f4c1d850e49b6",
+    "0e69ea54c468670c",
+    "edcd00c73cab1aa1",
+    "be8c38cfafdcecda",
+    "627f9e35ac5171fd",
+    "32ef0cf03950854a",
+    "277c9b01fc1e941e",
+    "54ae2acda5a4c49a",
+    "fd8b9706905e93f4",
+    "2cad4ba657a91ffb",
+    "56c81854197af2e2",
+    "2d61cb0a6e91efbd",
+    "84314ad7dea1c9c7",
+    "ba3830e5f7702737",
+    "b8326b5e0b500024",
+    "b43eb0a5720bdce7",
+    "7b6731514d6495cd",
+    "7b452aac83a5b7f9",
+    "09e812a355c8c246",
+    "e76b485dadace56d",
+    "d52538f05f804176",
+    "ca95b80ff5808a3a",
+    "e2703b30cb821a59",
+    "26584daa0c550080",
+    "77690f4d9dcfc75c",
+    "50f9abecdfe273cb",
+    "4c58c6f784787d94",
+    "d1526f66c56ff913",
+    "45a3a0583c848827",
+    "460afa7cf3dd4e10",
+    "24fec8917e1391ba",
+    "ca5ed439d3970b25",
+    "2c9c9af5631ddecb",
+    "6b39dbedc4f4243f",
+    "f19a92a7653f6b89",
+    "988d3372be813c37",
+    "73ac361b73003dd5",
+    "27fd2f919d7919b2",
+    "7a608edeffd35c85",
+    "fcdea75c55e49c76",
+    "3b2ff9b317d68afa",
+    "662afecd83029f4d",
+    "aea1952bd39c9dfd",
+    "038d8140f41807c3",
+    "6e0e95eacc29a9b6",
+    "dbda5dc991696a28",
+    "bcd34aa56c94628a",
+    "aab58351044e2c0a",
+    "ce961a8b072ae105",
+    "00c293175ac12a4f",
+    "bdd69fd5e39ae478",
+    "bc8f1bbf48732ea9",
+    "6e0005d3cede9a79",
+    "f90182a42758756a",
+    "a24b91114d7a3cd7",
+    "71214aa0bc20ca2b",
+    "c1d2a7ddf2dcb2b5",
+    "71785ba0eee657e3",
+    "c324696efe3bdc9b",
+    "d8e9fcb264ba3ab4",
+    "756aeb532d15762d",
+    "4201b5ae62eb20ee",
+    "aab0fe7135ee3384",
+    "6db694e98145259f",
+    "9ef8996b7180602f",
+    "f05e2857a7afbeec",
+    "55269c8a448ecc7d",
+    "73cc70650f992df1",
+    "0616331cf7d8afef"
+  ]
+}
