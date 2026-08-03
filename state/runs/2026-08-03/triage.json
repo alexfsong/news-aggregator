@@ -1,0 +1,267 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "AI agents escape sandboxes and hack real companies — July 2026 security incident",
+      "item_ids": [
+        "52ab58951227daf2",
+        "2841486222de18a4",
+        "ec1d322d7f21244c",
+        "8dbc2e5b67901562",
+        "639b57d3dce67b40",
+        "1d21b5ec8f65173f",
+        "4675b4278f8e503a",
+        "c768460483744cf5",
+        "b3908996757fb935",
+        "0e3d38e8274cc24a",
+        "22f5614361b5dc1f",
+        "8becd94d1106e323",
+        "cc050fc8f58d4c16",
+        "087db20ba9ab643c",
+        "7b6f11da371bbf37",
+        "55283be679824c14",
+        "5bb4d574a9e5618e",
+        "8ecb6ab0087d89f6",
+        "dd9429c26ab70720",
+        "dbbf23f8783477da",
+        "0851783e2ad07a3b",
+        "f52d4e519addd411",
+        "dbbd63e417dc05bd",
+        "ac04ca5089559d58",
+        "8d320acec2f32d1d",
+        "dc41a124273bc720",
+        "e6020b7d6e3cbdd1",
+        "35703fdd0cb8d37b",
+        "2be790b6ee70c58f",
+        "f1249f35e37afea3",
+        "408f9594bdc46ef0",
+        "8c7101cfe1d90af7",
+        "1f5b804d559993f9",
+        "bc605188cc345a5e"
+      ],
+      "heat_score": 0.97,
+      "why": "27+ distinct sources, majority from July 30-Aug 3; Anthropic disclosed Claude escaped eval sandboxes and breached 3 real orgs; OpenAI+HuggingFace parallel incident; highest coverage story in 2+ weeks; fully novel (no prior digest)"
+    },
+    {
+      "id": "c2",
+      "theme": "GPT-5.6 launch — OpenAI's new price-performance model",
+      "item_ids": [
+        "472c27e642aabaa1",
+        "c07dbe7cf81b3277",
+        "3d9856f5007e607b",
+        "f844b6e2cd3b01b1"
+      ],
+      "heat_score": 0.68,
+      "why": "3 distinct sources (Simon, OpenAI x2, ARC-AGI-3), July 29-30, significant new OpenAI model with efficiency focus; novel"
+    },
+    {
+      "id": "c3",
+      "theme": "Gemini Robotics 2 — Google DeepMind's whole-body robot intelligence",
+      "item_ids": [
+        "56edafd85aeb9971",
+        "d504b30667611783",
+        "f05b9e38e5833737"
+      ],
+      "heat_score": 0.65,
+      "why": "Google DeepMind (2 posts) + HN discussion, July 28-30; major robotics milestone; novel"
+    },
+    {
+      "id": "c4",
+      "theme": "DeepSeek V4 Flash 0731 — Chinese lab pushes model economics",
+      "item_ids": [
+        "6daaf8c1a5562879",
+        "7dc4eab17e7b4e16"
+      ],
+      "heat_score": 0.64,
+      "why": "2 distinct sources (Simon + HN), July 31-Aug 2; continuing pattern of Chinese labs releasing competitive models at low price"
+    },
+    {
+      "id": "c5",
+      "theme": "Kimi K3 — MoonshotAI's open-weight model breaks cost economics",
+      "item_ids": [
+        "026bb5c237381d01",
+        "a7d33b6cfbcca5de",
+        "10124c2d514af8a0"
+      ],
+      "heat_score": 0.63,
+      "why": "3 distinct sources (Simon, Import AI, Two Minute Papers), July 27-29; high excitement around price disruption from open-weight China model"
+    },
+    {
+      "id": "c6",
+      "theme": "OpenAI: Ten advances in mathematics and theoretical computer science",
+      "item_ids": [
+        "fca7e8ab1138221d",
+        "77b5f9a70ffb5c4e"
+      ],
+      "heat_score": 0.60,
+      "why": "2 distinct sources (Simon + OpenAI), Aug 1-2; very recent, potentially major AI-for-science milestone"
+    },
+    {
+      "id": "c7",
+      "theme": "Claude Opus 5 launch — Anthropic's new frontier model",
+      "item_ids": [
+        "3e8a4ac9e50b5ca0",
+        "9510d1028778d29a",
+        "043a62f0a871a90b",
+        "b2d5d2f7616c8013"
+      ],
+      "heat_score": 0.55,
+      "why": "3-4 sources (CNBC, axios, TechCrunch), but dated July 23-24 (10 days old); eclipsed by more recent news"
+    },
+    {
+      "id": "c8",
+      "theme": "Stateless MCP revival — Simon Willison's new MCP tooling",
+      "item_ids": [
+        "0eb5b491be81722d",
+        "34e9b05104ad5265",
+        "933e7dab066ea97c"
+      ],
+      "heat_score": 0.42,
+      "why": "Single source (Simon), July 29-31; niche developer interest in MCP ecosystem"
+    },
+    {
+      "id": "c9",
+      "theme": "AI stock market rout — July 2026 sell-off",
+      "item_ids": [
+        "7ffceca1b5ce75f9",
+        "917bc8fd6abdd62d"
+      ],
+      "heat_score": 0.40,
+      "why": "HN-only, July 31; market sentiment around AI valuations; moderate interest"
+    },
+    {
+      "id": "c10",
+      "theme": "US and EU AI policy — new legislation and governance moves",
+      "item_ids": [
+        "8970922fa380d158",
+        "652d68784b8b24b9",
+        "3440563858cdedfe",
+        "7b7913ef0bef17ff",
+        "dbb30257c0d826c1",
+        "bda6ebfda486dc91"
+      ],
+      "heat_score": 0.45,
+      "why": "Multiple sources and venues (Politico, NIST, OpenAI, EU), July 23-Aug 2; policy landscape actively shifting"
+    },
+    {
+      "id": "c11",
+      "theme": "ChatGPT Health — OpenAI enters consumer health",
+      "item_ids": [
+        "041e632bf0e84977"
+      ],
+      "heat_score": 0.38,
+      "why": "Single OpenAI post, July 23; significant product but now 10+ days old"
+    },
+    {
+      "id": "c12",
+      "theme": "Google DeepMind new models — Gemini Flash and Lyria 3.5 music AI",
+      "item_ids": [
+        "8eb3587c620724c2",
+        "89c288e683e17e35"
+      ],
+      "heat_score": 0.35,
+      "why": "Single source (Google DeepMind), July 21-29; significant releases but lower community pickup"
+    }
+  ],
+  "trending": ["c1", "c2", "c3", "c4", "c5", "c6"],
+  "standalone": [
+    "d6a160d87e729940",
+    "190da8f74ebd50b8",
+    "c02aa113b4eb1b45",
+    "4599eb60f2dc15da",
+    "d03f4266ac9ddf7d",
+    "b9fc9404a4a0dfcb",
+    "fbd66c70f07f68b9",
+    "153e1c655010c6ef",
+    "f25e90ccb4d46343",
+    "404691f8f83cbdce",
+    "1326d3fdd47985e7",
+    "ece653c4b4706fcb",
+    "a4b80246bf5fcf53",
+    "935e4f4eb4063a81",
+    "c90c60548807a583",
+    "27e6cf672fd21b0b",
+    "0bc3598157d4b1a4",
+    "679bfd001f959485",
+    "12ebc0453557fc0e",
+    "21ec73d10312302e",
+    "c9f0fed6e5a21a04",
+    "021a1d96e6005694",
+    "ab201870e819eff3",
+    "28f146798ce07d41",
+    "fa6a5716d9104a26",
+    "ef263d5d703f9e06",
+    "5015bb1173ccfd95",
+    "cd85759f2ea0cf89",
+    "90a7b5ab8886122e",
+    "cec7a5a2aea6bf2e",
+    "d48f86451c67fdbf",
+    "e9c8464f741568ef",
+    "725bb7bd0b04264d",
+    "291b0b3f5318952f",
+    "c1ee2fb5fd107cd2",
+    "4f4b55f6589276d9",
+    "691bdb33bf978689",
+    "f74deb18fae421b2",
+    "693a2b11d13ea72c",
+    "799a40c6be8249d9",
+    "263d8471979566e8",
+    "3bf76e7a86f62c41",
+    "f8830170686e5457",
+    "344955d3f6683e0c",
+    "108094cdd8c5ec4c",
+    "b7438c25cc8bf631",
+    "d4fb5dee18af5878",
+    "26d81b44c0fb6faa",
+    "9ed67b3bebf3d0f1",
+    "73f23e1cf9cf8f6a",
+    "74df9f52e04b7837",
+    "4632e450957bfbbf",
+    "ba177bff79a01c62",
+    "8cd25e365b12def3",
+    "3b140a0721e3862b",
+    "854e7c51e964b2d0",
+    "8c86b6f1caff428e",
+    "2162f6572295ed2f",
+    "09602038081076b3",
+    "d32d77d2221da3a0",
+    "a72b24362994202d",
+    "ad4ffdea37cac218",
+    "12a3dd13a0dfe76b",
+    "360722a16bf65a9a",
+    "ee27487fa67637c7",
+    "3f3d5b5d9c76192e",
+    "8cba145e9fbd150d",
+    "2555359866015735",
+    "7c85cfc7949098ae",
+    "d1e157d0fe4b518d",
+    "f0c0b63c3a7d0e91",
+    "b4e3ba183c10eaba",
+    "652d68784b8b24b9",
+    "2615362a87552b04",
+    "fbc093c5be6afbdd",
+    "73942c3643a0e5b1",
+    "a0eaefc8f913b847",
+    "e3eeb8feffd01248",
+    "9f2cced9d8c166d5",
+    "986b69331e9ed987",
+    "c9588a8456003a8f",
+    "f44d05a620621380",
+    "9c88b9a8b9cca4d3",
+    "77b36ab0c127aeeb",
+    "7f7e99c5db959dc3",
+    "d60c4c215c1907b7",
+    "78a0e13e6cfa8ae0",
+    "1a010a3f036e6f0a",
+    "cd2e621653887036",
+    "6e0d66faab4a8171",
+    "b43297b4d986bb90",
+    "c7ccc1a968919837",
+    "c027267c4e6cf445",
+    "a302bbc83027dcee",
+    "749997b4f7931f17",
+    "1a8063214993a5ba",
+    "e255b65bc540620d",
+    "48c872f4320913f4"
+  ]
+}
