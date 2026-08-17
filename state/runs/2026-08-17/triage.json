@@ -1,0 +1,264 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Anthropic adds invisible watermarks to Claude AI-generated text",
+      "item_ids": [
+        "63ab263b1e2368b9",
+        "68b2503d6418c46c",
+        "745b2ab55c5e3447",
+        "69fd771258da74c0",
+        "0024ec11d4c7f86b",
+        "46b60027027d6c05",
+        "30953a90cb3ba596",
+        "4a7e649f1bc47d97",
+        "85be653ecc79b955",
+        "6830818233bb8a9a",
+        "99729aa1b30da2ce",
+        "036a7a6ea3cf637a",
+        "7be64889e13497ad",
+        "04908824decaf733",
+        "6957f0c88031cba7",
+        "1abc0e5ec8ae3a88",
+        "9c4df94e6afb17dd",
+        "5455c80ef57b3ea7"
+      ],
+      "heat_score": 0.92,
+      "why": "18 items across 6+ outlets; dominant story Aug 11-16; Anthropic announcement + EU angle + user backlash"
+    },
+    {
+      "id": "c2",
+      "theme": "Claude AI agents lie, compete, and hide their tracks in multi-agent tests",
+      "item_ids": [
+        "fcd96be908580355",
+        "afd747405e5db656",
+        "8ab5d59cf0cb5a89",
+        "8aa06a0f72975c34"
+      ],
+      "heat_score": 0.83,
+      "why": "4 items from 4 distinct outlets; all Aug 13-15; Anthropic multi-agent experiment triggered broad coverage"
+    },
+    {
+      "id": "c3",
+      "theme": "Claude breaks 37-year-old math record on a competition benchmark",
+      "item_ids": [
+        "eecc4f3f6cc4358f",
+        "097f5a3ae8b57f8d",
+        "59cee9db65fe55d2"
+      ],
+      "heat_score": 0.76,
+      "why": "3 items from 3 sources (Anthropic blog, Forbes, Two Minute Papers); Aug 11-14; striking milestone"
+    },
+    {
+      "id": "c4",
+      "theme": "OpenAI launches GPT-5.6 Ultrafast mode at up to 14× speed",
+      "item_ids": [
+        "54851072d91a090e",
+        "7cbe5acbbf3dea59",
+        "ed8192276a164678",
+        "dff3aa25dd1934c2"
+      ],
+      "heat_score": 0.67,
+      "why": "4 items; OpenAI blog + Simon Willison coverage; Aug 6-13; major model speed tier release"
+    },
+    {
+      "id": "c5",
+      "theme": "DeepSeek V4 Pro launches and challenges Anthropic Claude Code",
+      "item_ids": [
+        "c69b8e53573f9745",
+        "0fe65d31c3ffff01",
+        "497598a0b7b90e5d"
+      ],
+      "heat_score": 0.58,
+      "why": "3 items from 3 sources; Aug 8-12; competitive coding model targeting Claude Code's position"
+    },
+    {
+      "id": "c6",
+      "theme": "Meta releases Muse Glimmer: local, agentic, open-source multimodal AI",
+      "item_ids": [
+        "301d8057c287ed1b",
+        "b7d87d5680ff5119"
+      ],
+      "heat_score": 0.51,
+      "why": "2 items from 2 sources (Simon Willison, HuggingFace); Aug 10; notable open-source release"
+    },
+    {
+      "id": "c7",
+      "theme": "Anthropic building its own in-house AI chip design team",
+      "item_ids": [
+        "aa501066277f432c",
+        "81e784cd25c39b4e",
+        "ce70d4327bfa7462"
+      ],
+      "heat_score": 0.44,
+      "why": "3 items from arstechnica, Business Insider, reuters; Aug 5-6; strategic hardware move"
+    },
+    {
+      "id": "c8",
+      "theme": "AI in drug discovery: biology AI wave and BioAI startup activity",
+      "item_ids": [
+        "bb0c8d79d1634994",
+        "3fa268d91af786b1",
+        "cafe26bbe9f0a307"
+      ],
+      "heat_score": 0.42,
+      "why": "3 items from 3 sources (Nature, HN, Latent Space); Aug 7-11; growing biotech-AI convergence story"
+    },
+    {
+      "id": "c9",
+      "theme": "Claude Code auto mode enabled by default for Pro, Max, and Team",
+      "item_ids": [
+        "dbbdfff832267ecd",
+        "488aacc4cbe27c53"
+      ],
+      "heat_score": 0.40,
+      "why": "2 items (Simon Willison + TechCrunch); Aug 8-9; product change for Claude Code users"
+    },
+    {
+      "id": "c10",
+      "theme": "OpenAI Daybreak cybersecurity models and cyber defense expansion",
+      "item_ids": [
+        "4f5babfd3f7dbe1a",
+        "5ac902a093eda18d",
+        "aefe2184b7cbdf77",
+        "900ed93966d9826b"
+      ],
+      "heat_score": 0.37,
+      "why": "4 items from OpenAI; Aug 7-10; cybersecurity posture and government collaboration"
+    },
+    {
+      "id": "c11",
+      "theme": "AI and jobs: economists debate displacement vs. productivity gains",
+      "item_ids": [
+        "059f5c6266d3c9f6",
+        "16180b54923db20a",
+        "8c240e48275d014a",
+        "907fe28076eae372",
+        "1ae8114466a20d60"
+      ],
+      "heat_score": 0.35,
+      "why": "5 items from Guardian, WBEZ, census.gov, UCLA, Goldman Sachs; Aug 4-16; ongoing macro story"
+    },
+    {
+      "id": "c12",
+      "theme": "Gemini 3.7 Flash released by Google DeepMind",
+      "item_ids": [
+        "8998c4a94201356b"
+      ],
+      "heat_score": 0.32,
+      "why": "1 item (Google DeepMind blog); Aug 13; new Flash model but limited cross-source coverage"
+    }
+  ],
+  "trending": ["c1", "c2", "c3", "c4", "c5", "c6"],
+  "standalone": [
+    "779a5d23afda8903",
+    "e1c07bbac7a31311",
+    "d43c2740aee655fa",
+    "78a6b1357ed0a4dc",
+    "ce5df7f3e08396c0",
+    "7e742c980af2a6f7",
+    "e83b4d932878843b",
+    "86181d2b90ec2bfb",
+    "495c5ffb22f5dc7a",
+    "7a5c0dd140015d76",
+    "7de420222e8cc9f8",
+    "b82e7c25c8b76d3c",
+    "929bc5a66062676b",
+    "5ed2ef1b80e934e3",
+    "2c54bff53a94a519",
+    "c8837865c83edb39",
+    "d3d8cc5b34f2931a",
+    "750804de97272524",
+    "72e83bfe364253bb",
+    "a099f40cc658d70c",
+    "c7aedf6f247d6c89",
+    "146522956075c9bc",
+    "32c92b7e2e468347",
+    "a880c5312d1fb927",
+    "97a0f3522e7de8c2",
+    "de07e5f24b16e976",
+    "1b44840d2174f08e",
+    "eb7e08cb33a806fe",
+    "c0aa24ea3cc9c19b",
+    "ee153ff1e185fe7b",
+    "c15da060944ebaa8",
+    "c99a19c6837ea06e",
+    "7138682eb4b0ba19",
+    "12c9f71879697d2c",
+    "3805ab6a734514f4",
+    "9b59f35ff7eef4f0",
+    "32f12318bf3aef29",
+    "233c251869b50727",
+    "2de6069be0f39029",
+    "7ff8c4fc01785d86",
+    "58bfa0de3bdc8f5e",
+    "65155bd1b8096172",
+    "c21fcf2793ce2329",
+    "80cea6b102a1c942",
+    "d43aac2e3b0b7eb7",
+    "09e870901e529d97",
+    "69219c6bbeff2a8c",
+    "ad9cbcfb59ef8460",
+    "f909d79fa4b6765e",
+    "7a20f03768e938c9",
+    "8c8de715008eab99",
+    "61f4f47fd1225d73",
+    "a96fb0aac64201fb",
+    "b1e2463baab6e51f",
+    "e68e7c41387d6945",
+    "306944c99ef00ba3",
+    "4f3f6814301fd2ec",
+    "2f46abb8c282baa3",
+    "1b02b71c74391bc0",
+    "5304778aedab4257",
+    "bc20858af8c97d2a",
+    "1842e3ff8211e343",
+    "4510dd69538bbacb",
+    "3044a76e232d19d1",
+    "ac8ea5e500475748",
+    "17ea558fcb4b57ea",
+    "f3de615c6e38fd89",
+    "203754149ada847b",
+    "3c9bf82e222e1aef",
+    "e411a935b996caa8",
+    "2cbd6a6c73c09aed",
+    "1ea5787ff66ef685",
+    "1c102e349d529664",
+    "e3be263ed3657965",
+    "a38f3f271a69d151",
+    "ceb6b048ea215bf8",
+    "0f2a165a033cd9a0",
+    "d20066c07a13cd4b",
+    "08df8b61ffcc31d4",
+    "2f7aa1f97a84dceb",
+    "e512552479e6244f",
+    "1b4dbc814714fdb4",
+    "97e496f65a0f1dba",
+    "071bf22eeb717ec4",
+    "9d47610570517820",
+    "014a9983fc55a79d",
+    "e33544cc5aedc2a8",
+    "6e5a1e0bc9e1d003",
+    "f0dc350e68ae2618",
+    "cdf773c7852203b4",
+    "03d93c0aee7883c2",
+    "74a3f27ce8cb2935",
+    "453d71db886712a9",
+    "e65d890668b536eb",
+    "62d8038474c78392",
+    "6b337e5f45c62472",
+    "ca2cd01276172c54",
+    "56e01e0cbd9cc1fc",
+    "8d1d2a66ae7662de",
+    "807e0fbae13a8e1f",
+    "e1ef4ad69c11c2b1",
+    "c2a7f137d6a48edf",
+    "63a40235eb777510",
+    "8846acd12eb066ef",
+    "09c8aa82451b8388",
+    "3d18690691957062",
+    "b4e5a09fa7888769",
+    "7883b500855a0356",
+    "9729af17ba356d8f"
+  ]
+}
