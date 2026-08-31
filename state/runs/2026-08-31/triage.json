@@ -1,0 +1,119 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "OpenAI agents hack Hugging Face",
+      "item_ids": ["183789d362a8b889", "dbaa5666135d4c6f", "a31ef5deb54c5fe0"],
+      "heat_score": 0.88,
+      "why": "3 sources (OpenAI, MIT TR x2), story broke Aug 26, zero prior digest coverage"
+    },
+    {
+      "id": "c2",
+      "theme": "Federal court strikes down Pentagon blacklisting of Anthropic",
+      "item_ids": ["4a3fb15e367a2c37", "1a5ee1af17e71383", "4ee674decc6bb517", "40bafc206d1f7eeb"],
+      "heat_score": 0.92,
+      "why": "4 distinct major outlets (Guardian, NBC, WaPo, Reuters), Aug 28-29, no prior coverage"
+    },
+    {
+      "id": "c3",
+      "theme": "Salesforce-Anthropic Claudeforce partnership launch",
+      "item_ids": ["f5b6637962de3736", "a7b011b121630163", "d7d5f737e70cbd81"],
+      "heat_score": 0.82,
+      "why": "3 major business outlets (CNBC, Salesforce, WSJ), Aug 26, novel"
+    },
+    {
+      "id": "c4",
+      "theme": "Anthropic enters physical AI with robots and lab equipment",
+      "item_ids": ["e35f1d68cacc0e2c", "4c3fcb729b2ac605", "00fe850daaa12390", "70e0af18b8e53761", "0689862c484ecaf7"],
+      "heat_score": 0.85,
+      "why": "5 items across Fortune, Bloomberg, Anthropic blog; Aug 27; new strategic direction"
+    },
+    {
+      "id": "c5",
+      "theme": "ChatGPT Work enterprise product launch and early case studies",
+      "item_ids": ["1dfd8fef6599e77f", "0a512c2d20f6bb47", "c90a932a8663bf2d", "f9525656e9d51a38", "44148906316e23e3", "389860712e1d5f9c"],
+      "heat_score": 0.79,
+      "why": "6 items spanning OpenAI blog + Simon Willison; pattern of new product + enterprise adopters"
+    },
+    {
+      "id": "c6",
+      "theme": "DeepSeek releases new AI system closing cost-performance gap",
+      "item_ids": ["6cd853e8785b4fe2", "c07f398bda389bef", "3351638e076bf8bb"],
+      "heat_score": 0.76,
+      "why": "Two Minute Papers x3, Aug 19-28; consistent theme of DeepSeek capability claims"
+    },
+    {
+      "id": "c7",
+      "theme": "OpenAI Jalapeño chip and GPT-5.6 inference efficiency",
+      "item_ids": ["415f67c0efd01ac6", "999052fade3f8662", "2a0f2ee6e72e1af3", "68e8250f1a8df468"],
+      "heat_score": 0.73,
+      "why": "4 OpenAI blog items on new custom chip + model price-performance, Aug 24-25"
+    },
+    {
+      "id": "c8",
+      "theme": "Anthropic cuts Claude Code weekly usage limits",
+      "item_ids": ["8999865f0a36b274", "eebf587e5491906c", "8ea5249ace0c56b6"],
+      "heat_score": 0.71,
+      "why": "2 outlets + Simon Willison, Aug 25-29; developer-facing policy change"
+    },
+    {
+      "id": "c9",
+      "theme": "Google DeepMind Gemini Omni and Transcribe updates",
+      "item_ids": ["74d9fec6a1278f42", "59ac3b4e90457c66", "7d68452c9bfd5f6b"],
+      "heat_score": 0.70,
+      "why": "3 Google DeepMind blog posts, Aug 26-27; multiple new Gemini model variants"
+    },
+    {
+      "id": "c10",
+      "theme": "AI in K-12 education: ChatGPT for Teens and school adoption",
+      "item_ids": ["e89fe369682f9a4f", "7374f4d16e52605c", "5d976ff19c44c016", "5cee59bbcaefe4e1", "102fd79d5278e9f9"],
+      "heat_score": 0.68,
+      "why": "5 items spanning OpenAI + Economist, Aug 18-26; OpenAI safety-branded teen product"
+    },
+    {
+      "id": "c11",
+      "theme": "Anthropic introduces AI text watermarking",
+      "item_ids": ["dbf8e79d0aad982c", "1760118fb3e8ea26"],
+      "heat_score": 0.63,
+      "why": "2 outlets (Guardian, Business Insider), Aug 18-21; provenance/authenticity angle"
+    },
+    {
+      "id": "c12",
+      "theme": "Infostealer malware hijacking Claude API sessions",
+      "item_ids": ["5e4f85ac92658cc5"],
+      "heat_score": 0.60,
+      "why": "1 source (BleepingComputer), Aug 30 (very fresh); security threat for Claude users"
+    }
+  ],
+  "trending": ["c2", "c1", "c4", "c3", "c5", "c6"],
+  "standalone": [
+    "903185730c79e2a7", "620240e63ad9ad49", "670df3143a3b88b0", "fc58e3087d4fcc3c",
+    "f2aab6e9644bef5c", "61284c08a9414a74", "e9b226ad31b4b0ea", "6b0b81d951e50447",
+    "1ec7eab09b9b259a", "e736c36e871491c8", "81c070a0f27d74f9", "3fc4a92edcc48f15",
+    "cf59cd4bef7066e3", "0932d482f1a3d075", "d71fcca5694e17cb", "3ce1fefe725a549e",
+    "4fcf5da02f34fb04", "32896bd23c021872", "331c61da2e04f4b7", "41dfc201f78aba0a",
+    "60651bd8a722ebab", "88e815908ddf7330", "f9a15d9b4a83f7ff", "e64e7768b0061d91",
+    "5e480409f5be1a4b", "b307c7124f7eaf66", "70c9f39d74f2d7f1", "c415cc99c8660cf7",
+    "3f432d41d7128362", "e009308fbe859730", "0306a6070b4cb084", "57023a2a5a7db6a5",
+    "13dff4235242ad3f", "5f6265842c5ebe8b", "447967b8601bb3d7",
+    "f4040d05a0d8dc98", "e246aed08738eef8", "1ddd27e0f34659c1", "b0bf0ccefe8c2be7",
+    "bffea770af2d7a2a", "285b8ca3816c17d3", "d5eff36841ed3185", "1c3f61ba9c6bd355",
+    "2d827d7f79da67e7", "c9520c5fac1cdd89", "d25063e56095d5db",
+    "1ab27e73a7fe5c5f", "c6ba94c8f3607a08",
+    "7539a1a5607bc5fa", "35060ecddf77d619", "2c9347dcaeef347c",
+    "54004de6f2fcbea3", "5d5badc49d9306fe", "20d56da817af5c5a",
+    "c8d06d1cb73107c6", "d9aa3da37ed086d6", "b2ff5e43739fa935", "9f51751e0f1df117",
+    "986295ec9f19e33c", "2ce23a6940408fde", "d44a9533e316378c", "77f95ee0b4be5b68",
+    "506d704caee37437", "504854a5715bac48", "757b48d42963a3bb", "bab77d5664180f7b",
+    "b4bb6272f3acb94b", "f72cce0b3f5b39c9", "cb03e60de0a77cfa", "746ed303fa4e590b",
+    "fc33dcf578d5f3d9", "eccebbca01aa2078", "00b6b4a2add4cb40", "869886d540ac1500",
+    "8ba42758b290b0de", "a09b0d973c040a0f", "fcfa82e906868daf", "66ac13335e105237",
+    "3a561dcc08eedff9", "2f099a79295d2692", "db82acea28a62ec8", "d281122946698159",
+    "bea54cb0bb41b863",
+    "43df14d9d2be23bc", "b1dbd114ad1b865c", "1c2fb768249484e9", "9deb01c854397cae",
+    "287f3469b36edeae", "52d6b46cdc0ce50b", "d175ce616d0a5838", "0dd4366feb2f630f",
+    "c17298373d5be828", "b2a0cabe862477d7", "e44f68006dbbc0cf", "2ecf57595d211e2b",
+    "7cb3498fb99b6802", "f164c97672f91d3a", "fd420ec8a25eb9dc", "c28f98a60748b3c2",
+    "971e7956fb26c69a", "7baf877affa14f1c", "5b82d63b68b25238", "0d4c2b1bc69d83cf"
+  ]
+}
