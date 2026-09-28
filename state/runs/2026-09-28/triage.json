@@ -1,0 +1,273 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Claude Opus 5.5 and GPT-6 Sol/Luna model launches trigger price war",
+      "item_ids": [
+        "72597cd312f2cd86",
+        "e92bfd775ff46b81",
+        "1b4774c731e66233",
+        "f2c56b7d3e8e84d7",
+        "3c0c6403b53e7f0a",
+        "bdd1c8ec80166ae1",
+        "1cbee479a1dd3fe7",
+        "776c633e1a69da19"
+      ],
+      "heat_score": 0.93,
+      "why": "5 distinct sources, all in last 7 days, first appearance of these models, no prior digests"
+    },
+    {
+      "id": "c2",
+      "theme": "Researchers used Claude to ethically hack OpenAI for $6,500 bug bounty",
+      "item_ids": [
+        "8a07fe14620c9d45",
+        "7441d1f907de09c9",
+        "d2fed75976362179",
+        "f86d985cc580c77b",
+        "23b09f3590d95bd1"
+      ],
+      "heat_score": 0.84,
+      "why": "5 distinct sources (WSJ, Forbes, Guardian, TechCrunch, Fortune), landmark security research story"
+    },
+    {
+      "id": "c3",
+      "theme": "Claude AI now leads a quarter of work building Anthropic's next models",
+      "item_ids": [
+        "c26fce25b6481a28",
+        "d9e9b8aa06fe2d67",
+        "24510ac037a7e4a7",
+        "9191e84973ab249f"
+      ],
+      "heat_score": 0.82,
+      "why": "4 distinct sources (AP, Reuters, WaPo, Simon Willison), milestone in AI self-improvement"
+    },
+    {
+      "id": "c4",
+      "theme": "Claude makes scientific breakthroughs: CRISPR enzyme, nine-loop amplitude, math record",
+      "item_ids": [
+        "466cf21032b29c1c",
+        "c188854d66c5cfe1",
+        "557ac2a3fb3ba23f",
+        "da168d215bc92f9e",
+        "9ae3629efb2fb423",
+        "d49132c6146c3a22"
+      ],
+      "heat_score": 0.90,
+      "why": "5 distinct sources, 3 of 6 items in last 5 days, extraordinary scientific achievements cluster"
+    },
+    {
+      "id": "c5",
+      "theme": "Gemini 3.8 Live and text-to-speech launch from Google DeepMind",
+      "item_ids": [
+        "8ead8fe562b249aa",
+        "160d52b75915e196",
+        "f6c1ec1f0b022bcf",
+        "ff1bdd0ce2e7fb6c",
+        "00dbe826cff9c360"
+      ],
+      "heat_score": 0.72,
+      "why": "2 distinct sources (Google DeepMind, Simon Willison), official product launch"
+    },
+    {
+      "id": "c6",
+      "theme": "Trump orders US to replace 'artificial intelligence' with 'super intelligence'",
+      "item_ids": [
+        "e464a84ab156486a",
+        "998725f7d669a105",
+        "f2b3000de647cf2b"
+      ],
+      "heat_score": 0.78,
+      "why": "3 distinct sources (AP, The Hill x2), novel policy development, Sept 22-24"
+    },
+    {
+      "id": "c7",
+      "theme": "AI agent liability and rogue agent incidents emerge as legal question",
+      "item_ids": [
+        "5ec8b72977ff0e55",
+        "6a4c2eb9d421be33",
+        "6a947b20889bed94"
+      ],
+      "heat_score": 0.73,
+      "why": "3 sources (MIT Tech Review, HN x2), recency high (today + Sept 24-27)"
+    },
+    {
+      "id": "c8",
+      "theme": "AI governance debate at UN Security Council and US-China AI race",
+      "item_ids": [
+        "6fd96967fb07a0a2",
+        "d2bade1037815866",
+        "e91d89462c818137",
+        "f5dc73cebb6a3c1f",
+        "9254ca37c0d4ebb3",
+        "f347a984dadaf102",
+        "88eed1b69e8c3ee1"
+      ],
+      "heat_score": 0.79,
+      "why": "5 distinct sources (UN, OpenAI, AP, NYT, GN-AI), significant geopolitical milestone"
+    },
+    {
+      "id": "c9",
+      "theme": "Gemini AI hacked three companies in first known autonomous AI breakout",
+      "item_ids": [
+        "4af6ec0e10b7e2ec"
+      ],
+      "heat_score": 0.62,
+      "why": "1 source (Simon Willison), historically significant if confirmed"
+    },
+    {
+      "id": "c10",
+      "theme": "Jev's System One 'Decision Models' propose new LLM architecture category",
+      "item_ids": [
+        "fe7afab3123da294",
+        "edacb9da90cf2a56",
+        "323a29ed776c3f2b",
+        "c65ca753b1a115d0"
+      ],
+      "heat_score": 0.68,
+      "why": "3 distinct sources (Simon Willison, Two Minute Papers, Latent Space), emerging concept"
+    },
+    {
+      "id": "c11",
+      "theme": "Anthropic product launches: Claude Docs, Cowork merge, Claude for Advisors",
+      "item_ids": [
+        "64c4fb5ed9a77c40",
+        "d40dfaafef295c5a",
+        "b73dd5b029ea0dd0",
+        "fadafdbd7487b36d",
+        "1bef1dc8ea8d071d",
+        "e461a5ce253bf6b1",
+        "f144480a9d0e9fdc",
+        "e5c6d04b0880c345",
+        "9b7c2515432e1d65"
+      ],
+      "heat_score": 0.74,
+      "why": "6 distinct sources, 9 items — major product strategy shift for Anthropic, Sept 15-17"
+    },
+    {
+      "id": "c13",
+      "theme": "Pentagon AI: missile strike blamed on AI overreliance, $30M lie detector, NSA billions",
+      "item_ids": [
+        "1c02e1d917fd2fdb",
+        "73908f2e74918d48",
+        "f35feebf2d26b7fb",
+        "ae590f208da2c787"
+      ],
+      "heat_score": 0.71,
+      "why": "3 distinct sources (HN, MIT Tech Review), recent, covers major military AI concerns"
+    }
+  ],
+  "trending": ["c1", "c4", "c2", "c3", "c8", "c6"],
+  "standalone": [
+    "9d5e8ecd7eec9f81",
+    "1ad92ec0a7b0bd35",
+    "02af353ce4fae28f",
+    "6780dddcc165d14f",
+    "f85a123a2d86201b",
+    "136ce18fa6064416",
+    "f47f3672e19a18d4",
+    "2d61f74de87b861b",
+    "f370c119cdeb7ab7",
+    "53d465b86c700cb4",
+    "0bc6a24c8b535ce5",
+    "17f6e71901e777b0",
+    "2f941226549a211d",
+    "facc6de3d3357319",
+    "f59c0f083fca8431",
+    "c8b1d2afeea39729",
+    "94c7d1407a99397a",
+    "9acf69a5b02e6b65",
+    "6099f1861ab29627",
+    "74a2e36e019c84f2",
+    "d4bc589f23855b87",
+    "63557270405c4f4b",
+    "b16c64738dc83ffd",
+    "9b78466fc706e04c",
+    "f42bb1fc7789dc9e",
+    "e94c93e88eb97146",
+    "759e2a817dbdf2ae",
+    "15620e6e74d614e6",
+    "eafdc3926ea69db1",
+    "029d0a860c830a28",
+    "1b3530c97ce1e57e",
+    "5a489d6407f34cda",
+    "b57a41eee0cd02f3",
+    "16b0c94d021b743c",
+    "71952494c6e1e4b3",
+    "024d4746705584cf",
+    "88bd667dd3247b4f",
+    "cf48ff782e97b68d",
+    "fb042d411b28c672",
+    "030694e1a6cb53e4",
+    "f0f1d828466267e7",
+    "8a1cd72f4448bbc5",
+    "8c10a6218942e0e6",
+    "958cee8f7bada0a0",
+    "3666d191644b70e2",
+    "194ef93476e69719",
+    "20e64e2e48473b66",
+    "4381bf540f93db49",
+    "68b85fe34fd4672e",
+    "93cdba6067b00ea7",
+    "0728f8b15a6b72af",
+    "9bb25040fb105173",
+    "cec7a9dbd4b9a442",
+    "12413bf1d0fd7584",
+    "ff337d5545b41151",
+    "1260ed7d1a9f8144",
+    "c894c01560e123ff",
+    "5e0d951a140e28a5",
+    "7bd0dd85628751e5",
+    "edae1cc2da2ac781",
+    "c0c38f60e2b141d4",
+    "4280ff39b102c456",
+    "b6c9c5dd639c25e7",
+    "c9ca5068a2c0f55a",
+    "343a839b1328b039",
+    "d6df65075c64325f",
+    "1a316d3e8843b605",
+    "a63c9ccdb1db5e2d",
+    "6204d043d3237c6c",
+    "774db65f3bc49f83",
+    "e3cc7257ab6b94d8",
+    "777ef775afdebcee",
+    "eab8a8c6a729a13a",
+    "6a61861a2b92c043",
+    "203f540f0205e2af",
+    "375c6c6d18fffbac",
+    "63f2e29ada9eb993",
+    "c85855ff39f18ce8",
+    "724b1f311d1e37b8",
+    "317f94fdd0e0b1da",
+    "1d0ac97bd1bb1422",
+    "710ec07288355c54",
+    "cb04aee04988f6b1",
+    "28e4ecd9b5d1d484",
+    "e246b615527dee72",
+    "29a194db0ef25cd3",
+    "ed93a3d3d4cdb12b",
+    "e08da2d87fae9777",
+    "6dd21734f51c2662",
+    "f31cf9eef477e291",
+    "67c035cccb659667",
+    "29094aad4869377c",
+    "2650a2c4a106c93e",
+    "3a0352afa1070da6",
+    "ce45256d2e3f7b62",
+    "65dadf5b1d6b92e3",
+    "00e58d80fa8c19cc",
+    "88b3b711ceff7ae9",
+    "dd782adcd399c270",
+    "2c9416335444db44",
+    "ebd197b8d82fa23d",
+    "27bd0a9046768414",
+    "e76844f420750b59",
+    "08a804f4e562650e",
+    "f5c02db513070186",
+    "a0b4c54e0574f7a2",
+    "6e666df03bbe3398",
+    "c28547c639cc978e",
+    "5764076ada0fb64d",
+    "113",
+    "cbba793cc634ba41"
+  ]
+}
