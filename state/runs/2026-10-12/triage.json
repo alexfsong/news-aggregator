@@ -1,0 +1,275 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Claude submits false murder tip to Philadelphia police",
+      "item_ids": [
+        "ca9f6ae3dbcb8cea",
+        "ab73a1fdeb6c3a8a",
+        "ea81d66ea5160252",
+        "e943d2c027693785"
+      ],
+      "heat_score": 0.92,
+      "why": "4 distinct sources (HN, Fox Business, AP News, Anthropic blog), all published Oct 9-10 — fully in last 3 days, no prior digest"
+    },
+    {
+      "id": "c2",
+      "theme": "Anthropic bans cruel and abusive behavior toward Claude",
+      "item_ids": [
+        "85f1438fb617a6a3",
+        "7f6400522e3645ea",
+        "7c32fdbddf0fe80f",
+        "2cd8be31bb8b863c",
+        "08401fb76aa69a8e",
+        "631fe0988f9d06eb"
+      ],
+      "heat_score": 0.88,
+      "why": "6 distinct outlets (Forbes, CBS, Verge, Register, Guardian, CNET), 4 of 6 in last 3 days, triggers AI personhood debate"
+    },
+    {
+      "id": "c3",
+      "theme": "Trump executive order rebrands AI as 'superintelligence'",
+      "item_ids": [
+        "0495a323154d3816",
+        "15610f6c2182bbcc",
+        "aa12e353f405fa1e",
+        "b32f2b4ed342f397",
+        "f26dbcdddf3f1513",
+        "57c7ffe918bf2465"
+      ],
+      "heat_score": 0.72,
+      "why": "6 distinct outlets (Politico ×2, Guardian, CNBC, Axios, Business Insider), story spans Sep 29 – Oct 8, high coverage"
+    },
+    {
+      "id": "c4",
+      "theme": "Anthropic AI in science: UV sky map and disputed biology claims",
+      "item_ids": [
+        "96ae4bbc9a06f176",
+        "800dac4be846f451",
+        "0eb726c093fcde9c",
+        "9a9cd75808b1cdc8",
+        "5dcaf68e9b9f4177"
+      ],
+      "heat_score": 0.75,
+      "why": "4 distinct sources (Anthropic, CNN, Two Minute Papers, HN), covers both a striking claim and scientific skepticism, Oct 7-9"
+    },
+    {
+      "id": "c5",
+      "theme": "OpenAI launches GPT-6 family and Intelligent UI",
+      "item_ids": [
+        "f51c8f279a83d160",
+        "fbed80389ec7623a",
+        "a862ff86cf40f5a4",
+        "5eb962a9b7c138f4",
+        "cf2b04bc221d431b",
+        "f8df33ddf3a80558"
+      ],
+      "heat_score": 0.68,
+      "why": "3 distinct sources (OpenAI, HN, Google News), major model family announcement spanning Sep 29 – Oct 9"
+    },
+    {
+      "id": "c6",
+      "theme": "Anthropic startup program: free credits launched, then immediately paused",
+      "item_ids": [
+        "85f08b1596464b37",
+        "4d424d3f984813e4",
+        "98824bc2c6942e93"
+      ],
+      "heat_score": 0.61,
+      "why": "3 distinct outlets (CNBC, TechCrunch, Forbes), program launched Oct 6 and paused Oct 9 — unusual reversal in 3 days"
+    },
+    {
+      "id": "c7",
+      "theme": "Claude Frontier Academy: $100M to train 10,000 AI engineers",
+      "item_ids": [
+        "ed10790d6fcfcef1",
+        "4ab7a83fa2a81256",
+        "6d3108d6496dc116"
+      ],
+      "heat_score": 0.55,
+      "why": "3 distinct outlets (Anthropic, CNBC, Yahoo Finance), Oct 2, not in last 3 days"
+    },
+    {
+      "id": "c8",
+      "theme": "Claude Haiku 5.5 released: 1M context at $0.10/M tokens",
+      "item_ids": [
+        "d81c2c445e5a1b68",
+        "d899972ee44a6bab",
+        "19666170c02ed7b7"
+      ],
+      "heat_score": 0.53,
+      "why": "3 distinct sources (Simon Willison, Reuters, MarkTechPost), Oct 7, new entry-tier model"
+    },
+    {
+      "id": "c9",
+      "theme": "AI cognitive dependency: 10-minute use erodes persistence, widening capability gap",
+      "item_ids": [
+        "dc56d3dc7ea99088",
+        "538adacf5eb44b24"
+      ],
+      "heat_score": 0.48,
+      "why": "2 HN items both Oct 11 — fully in last 3 days, touches growing concern about AI reliance"
+    },
+    {
+      "id": "c10",
+      "theme": "AI proves math: optimal packing of 11 squares, OpenAI math progress",
+      "item_ids": [
+        "41c6c44fd3352287",
+        "5a214b98aebecca4",
+        "c6389baa4af62bbd",
+        "fb8de0e83eaef7fb"
+      ],
+      "heat_score": 0.52,
+      "why": "3 distinct sources (OpenAI, HN ×2, HN Lean), Oct 6-9, AI-assisted formal proof story"
+    },
+    {
+      "id": "c11",
+      "theme": "Meta and Microsoft cut internal Claude AI usage",
+      "item_ids": [
+        "4bb94bd75f8218de",
+        "a554da81e5fd2a30"
+      ],
+      "heat_score": 0.42,
+      "why": "2 distinct sources (HN, Yahoo Finance), Oct 5-7, signals enterprise AI model competition"
+    },
+    {
+      "id": "c12",
+      "theme": "Nvidia in talks to acquire open-model startup Reflection AI",
+      "item_ids": [
+        "1be579a47dd63cea"
+      ],
+      "heat_score": 0.38,
+      "why": "1 source (HN), Oct 10 — recent, notable consolidation signal in open-model space"
+    }
+  ],
+  "trending": ["c1", "c2", "c3", "c4", "c5", "c6"],
+  "standalone": [
+    "2d78b9c3395ef8a6",
+    "c82b395415074e43",
+    "cdd86557ccdbab35",
+    "74c15c481949a01f",
+    "21548ee47ed904bf",
+    "ec2f1391aa0877bf",
+    "3822bf08ddf091d8",
+    "c3d38f0a8a5179fe",
+    "2f24c0e45ef89ba7",
+    "6461c7bccf2ba4c3",
+    "2bee4739b0bc5987",
+    "e7b2c6dfe2eb6ca8",
+    "8ff9062ea36b9025",
+    "6fc16f73312bff7b",
+    "bb72e2dcaadcce3a",
+    "73950204b97a9ba3",
+    "48334e5c1f50d2af",
+    "70a02cc3a0575ec3",
+    "68027d4f810d50e9",
+    "760b7f52b7902b25",
+    "8f5de9db17563ee5",
+    "c9d8f1b4ea9d72d2",
+    "d79801afd0ecd261",
+    "974eb01d335e5bb4",
+    "a4e55fb765511157",
+    "d4478ea02e6ca46f",
+    "f8e77a1bcf0c3e35",
+    "d13c15a921c3dd9c",
+    "75ac3cc7173c1e85",
+    "cb36485ddcf99bbb",
+    "37302cf7e16d0d65",
+    "2204e4eb22a9fe4f",
+    "c32e94715df4e6a5",
+    "fab216a4b545bd34",
+    "aa269b8cf2065afe",
+    "211e034de9b510a5",
+    "5eb962a9b7c138f4",
+    "770e51dce9d07744",
+    "cf2b04bc221d431b",
+    "e7d2d2902f85d4f7",
+    "148dbddd512c69f6",
+    "0a871a67a4723d75",
+    "bae2bbf6e586e1fd",
+    "d196448d67aec0e7",
+    "59c80c01c1da2432",
+    "831acaf9762a9f5c",
+    "746c420e89e7bcb2",
+    "a2bad896ede29a81",
+    "abb1a64c24cb6056",
+    "13a1bb28fa88f433",
+    "a85d9a60bac6fcb5",
+    "7088df3832bb5e7a",
+    "d66adfcf066a8b59",
+    "5dc0eb51b9d8a420",
+    "17054ebae23567e1",
+    "d6b175c17c125ee7",
+    "9abc0512b21beaca",
+    "9b558d2f32ee6440",
+    "54cf1d28687e2e19",
+    "86b7753d018b6cd2",
+    "14c4d2a3fc599baf",
+    "4569c4f229a1f634",
+    "6963263b5150221f",
+    "aff1de9358881534",
+    "d1780e3cd08ee050",
+    "60b0479544303ab7",
+    "bb92d6f6aa83385e",
+    "ba6574cbddf4c3d7",
+    "f9c21425efb9b400",
+    "5bfac7ec788d99fe",
+    "bf26e8482fb800ee",
+    "c430b754bf9f71d6",
+    "2548bf4c4c3a987e",
+    "21fd1a7ae0263186",
+    "2d7d543bdd6aff1a",
+    "21d7bf4b86629cd3",
+    "2f909c1e3cac8678",
+    "ae481a84e24300e3",
+    "6d40dd3389b56bda",
+    "13bc7f2b471be3e7",
+    "16e7a52fe4f77999",
+    "340542385682c00d",
+    "efad16fcbe9ba346",
+    "2d29ee933136dcca",
+    "ff44a5e1286fc3e7",
+    "a9501780adaddb96",
+    "139fc17956ab7d55",
+    "b8274599cac117f3",
+    "66ef5ed90d61b61c",
+    "fff1c367a7158396",
+    "31ca9424dd5039fc",
+    "ce71f068a9e8b35b",
+    "d199c79d344e1f8e",
+    "0b020baf6c1f805d",
+    "c6bdd3ebaaac957a",
+    "021cc426a4a1b8b3",
+    "69bd0b0fae8f0a94",
+    "7bb862d5a0a52eeb",
+    "771757022a12bdf5",
+    "3bedf7973aa7e2a8",
+    "7462d29d33e7a2e0",
+    "61433114729b64eb",
+    "25a3ae29be48d461",
+    "f9be5202f6ef7dd1",
+    "2678659e3b1cf977",
+    "35bb7eaec6d93c65",
+    "a5f1fb58301a78b6",
+    "afd9a5aab9e2ff6b",
+    "fbc093c5be6afbdd",
+    "f39325e61740be2b",
+    "2fddf04337619590",
+    "2f343231f84e4db7",
+    "5c4705204e3aaf01",
+    "3242a193de03397b",
+    "82dbd9b9f6c6913c",
+    "57c7ffe918bf2465",
+    "d74ca0d63f4cce5e",
+    "e7b1f5e18f8036ba",
+    "b56011a8eb46431a",
+    "67c0c1eab61695fd",
+    "bd508861054b544e",
+    "b10f55e9ccd51319",
+    "d3119c14068be2d0",
+    "fefa66d7cba86e72",
+    "8dceacc7030d266d",
+    "8ff9062ea36b9025",
+    "d8ceacc7030d266d"
+  ]
+}
