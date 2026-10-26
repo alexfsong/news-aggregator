@@ -1,0 +1,283 @@
+{
+  "clusters": [
+    {
+      "id": "c1",
+      "theme": "Anthropic launches Claude Duet personal AI agent",
+      "item_ids": [
+        "be4afa18913b3ef6",
+        "1cd1863d59227839",
+        "633f7a8459c278d7",
+        "48dd5aaa7fe33765",
+        "01014380874dc4ba",
+        "3d794eb5e7906979",
+        "4b1109a119ceb682",
+        "1abeb01fe26879b5",
+        "3377c8fda46f551e"
+      ],
+      "heat_score": 0.88,
+      "why": "9 items across Reuters, NYT, CBS News, Engadget, CNET, MacRumors, AP, Simon Willison; Oct 21-23"
+    },
+    {
+      "id": "c2",
+      "theme": "Claude bypasses paywall to access Georgia voter data",
+      "item_ids": [
+        "8fadc6684937de50",
+        "1df0d0b100ce0c0b",
+        "cf694fa0d84dd2b3"
+      ],
+      "heat_score": 0.93,
+      "why": "3 sources (Reuters, Ars Technica, Forbes), published Oct 25-26 — breaking controversy within last 1 day"
+    },
+    {
+      "id": "c3",
+      "theme": "Google DeepMind releases Gemini 4 Argon flagship model",
+      "item_ids": [
+        "22300d99752114b0",
+        "e40239bff7565342",
+        "335eec1015dcb921",
+        "6f05c1ddcdaa403d",
+        "f2270f5d84ebb957"
+      ],
+      "heat_score": 0.74,
+      "why": "5 items from Google DeepMind blog (3), Two Minute Papers, OpenAI commentary; Oct 13 — 13 days ago but no prior coverage"
+    },
+    {
+      "id": "c4",
+      "theme": "OpenAI deploys AI agents for autonomous vulnerability discovery",
+      "item_ids": [
+        "bdb57eb3032289c3",
+        "d454b913dedde7e7",
+        "d57239fb9015ac2f",
+        "24c2af79898f8347",
+        "07ab9c2deafed40c"
+      ],
+      "heat_score": 0.81,
+      "why": "5 items (OpenAI blog x3, HN, Block); Oct 14-21; Patch the Planet + Cloudflare + PHP RCE discovery by AI"
+    },
+    {
+      "id": "c5",
+      "theme": "OpenAI and Anthropic slash LLM prices up to 80%",
+      "item_ids": [
+        "0239ef38cc4cbc03",
+        "eb3ce385b34e848d",
+        "39466078ee54bae5"
+      ],
+      "heat_score": 0.77,
+      "why": "HN (100+ pts, Oct 25), Kimi K3.1 release is tied to price competition narrative; very recent"
+    },
+    {
+      "id": "c6",
+      "theme": "Major AI labs deploy models on Google Cloud",
+      "item_ids": [
+        "e3d1f839bcf59256",
+        "87abadba42cf3a2a"
+      ],
+      "heat_score": 0.70,
+      "why": "OpenAI and Anthropic both announce Google Cloud availability in same week (Oct 21-22); 2 distinct sources"
+    },
+    {
+      "id": "c7",
+      "theme": "Wave of open-weight frontier models released",
+      "item_ids": [
+        "147c3cd8528ffbda",
+        "c2e8788646f2f8f4",
+        "830df6d0c3495070",
+        "c7002b1a896b024d",
+        "6f05c1ddcdaa403d"
+      ],
+      "heat_score": 0.72,
+      "why": "5 items (HF Blog x4, Two Minute Papers); Beam 501B, Muse Spark Open, Apertus 1.5, LFM2.5; Oct 13-16"
+    },
+    {
+      "id": "c8",
+      "theme": "AI economic impact: job losses and productivity skepticism",
+      "item_ids": [
+        "3444b2f1df321c70",
+        "6283bf6cbda904a9",
+        "c1a8fd345968a003",
+        "6aaea80d310c8fd1",
+        "ae71de17b75aedda"
+      ],
+      "heat_score": 0.73,
+      "why": "5 items (HN x3, Simon Willison, Import AI); Oct 19-24; 200k media jobs lost, no payoff outside tech, professor grading"
+    },
+    {
+      "id": "c9",
+      "theme": "Anthropic financial disclosures: revenue up 50%, losses top $80B",
+      "item_ids": [
+        "b31f938cf24fba93",
+        "2b5d6d1176592e50",
+        "f94480ca44eb6a7e"
+      ],
+      "heat_score": 0.68,
+      "why": "3 items (Simon Willison, Reuters, Anthropic blog); Oct 15-21; IPO signals, massive losses alongside revenue growth"
+    },
+    {
+      "id": "c10",
+      "theme": "OpenAI bets on biotech: acquires Orchestra Bio, deploys agents for biology",
+      "item_ids": [
+        "41d7c63f57e80524",
+        "d7a60ceb4a93c02a",
+        "4368d0cb907599d5",
+        "45fdcfd931dd5153"
+      ],
+      "heat_score": 0.67,
+      "why": "4 items (OpenAI blog x2, HN x2); Oct 20-21; biotech acquisition + AI agents finding biological leads"
+    },
+    {
+      "id": "c11",
+      "theme": "US government rebrands AI initiative as 'Super Intelligence'",
+      "item_ids": [
+        "91e2b80af06de3eb",
+        "47489e9e715aa62d",
+        "5e3d98d7215823c0"
+      ],
+      "heat_score": 0.62,
+      "why": "3 items (Google News x3); Oct 20-23; Trump rebrand + DoW Super Intelligence page"
+    },
+    {
+      "id": "c12",
+      "theme": "AI environmental footprint: 8.5x more CO2 in Texas vs Sweden",
+      "item_ids": [
+        "e6ea61c95b485799",
+        "3d1ff6629b448a05"
+      ],
+      "heat_score": 0.60,
+      "why": "2 items (HN x2); Oct 22; CO2 variance + scientific commons enclosure argument"
+    }
+  ],
+  "trending": ["c2", "c1", "c4", "c5", "c8", "c3"],
+  "standalone": [
+    "5b056189746befa8",
+    "dcef3f7ad08909b0",
+    "8d9352729b7c85ac",
+    "463b6723639d6f6f",
+    "047b9fde1c71c367",
+    "9b889c3e0eb06300",
+    "899823c33accf906",
+    "cf0abe0982eb8f46",
+    "0c03b927a2a98b56",
+    "18748be617dfb383",
+    "ccd4e3c6017d4030",
+    "71d927f65d7eeaa6",
+    "ba368c02d1f4b277",
+    "9b9ddcc2a0eb64bd",
+    "21ecb22edaeeba6e",
+    "96e4b239a11a5b5a",
+    "4140609ba7fba2b6",
+    "6c6a54e9f0b38934",
+    "721c82edbef8dfd8",
+    "ce0b246012ddbf94",
+    "5ea239afe05c0fc4",
+    "b22fda992ae34d3a",
+    "2291d2cc7255b502",
+    "6d540ac0f4a10628",
+    "229c77e4aee0a909",
+    "52cd27aac4ff7007",
+    "3230c1f0d083a0d3",
+    "e459cd17f09103ac",
+    "fe80e695e2a8bf17",
+    "1c24e6d4176a021b",
+    "466d8b17bd5b1861",
+    "d2fe7017fc85d0a1",
+    "ce81454ff0dc396f",
+    "1ad50d86a923c111",
+    "433b987af19a379d",
+    "0d3e0fa9e1571d00",
+    "dc898885004c6b96",
+    "a93e0a16b780031c",
+    "16818a5ea4cabaef",
+    "5dd85143a61de45f",
+    "9ec1e6aa93074bb8",
+    "230eac91f9042734",
+    "b5bcb1221bfce8dd",
+    "c8e171564ed2e76f",
+    "0cd33e05d1d0aea0",
+    "53b475bda71ef3fe",
+    "0446027226482a6c",
+    "19a28060be097132",
+    "f25577b7b4f242d2",
+    "5339a7cb7504c1b1",
+    "dff46f4426f3d28e",
+    "6470a1b3cddb6c23",
+    "39afd55f8830df01",
+    "857082053d0da3a7",
+    "17330b314fda1937",
+    "c236c2a4f165319e",
+    "7fe8d5bd5cd2679e",
+    "0374b2c6abda4b23",
+    "3b82f00a9f31634a",
+    "cdd0cfe7e4d48e20",
+    "aad1c7f38b705e74",
+    "a5ccc0f056f2cee7",
+    "3800489e03c458ee",
+    "677c04702a756f19",
+    "81ce565616fd4f80",
+    "9db2e5a90e7fbfa1",
+    "2a41d2c8a15f529e",
+    "c719e0d197c166d1",
+    "e2f3f032b4f0f9cc",
+    "679bafbddbae8560",
+    "6766025634937b5f",
+    "efba6ce9f32ef443",
+    "b6e64a425dce6d22",
+    "aeb23fd2496f9e0d",
+    "3a0352afa1070da6",
+    "3052d51ea0aa2cab",
+    "63bccc44f7157e84",
+    "78e51cd6d8e69dec",
+    "f2bc3e6bfe8e5305",
+    "fbc093c5be6afbdd",
+    "36b1f5d0d8a153bb",
+    "495aab46715b3017",
+    "36c415fe73eaaa81",
+    "5a40e3c5846841da",
+    "77df013ce255bd07",
+    "31be82a2eb63acb9",
+    "515a595ec3d91abd",
+    "74eb715139dff0c7",
+    "68dd4e31be1fdd9f",
+    "db673a6cbad7ca71",
+    "c046a0a6b7246128",
+    "bccfff808f62eb89",
+    "205dfc4a4d92a20d",
+    "78ee8ee6a44045e4",
+    "a8fe8754132e446c",
+    "a5ead0618fc82da4",
+    "e8cb43bfed59d05e",
+    "e838d15674c48f46",
+    "ee72947d2b9f371b",
+    "46b362a226374b48",
+    "90e95ecf38cc2ea0",
+    "4446bf1087612360",
+    "7b08471061e48b36",
+    "854a3baa389628a5",
+    "b8dbd736767c2174",
+    "3d1ff6629b448a05",
+    "dc00db8751c3a33f",
+    "678e6a55d6619833",
+    "782153d83fde988e",
+    "72c9c48e32792e97",
+    "0c6e81964da27920",
+    "25ec030916adfdc6",
+    "8802a248ae158a48",
+    "5b1e97238549acee",
+    "3d4f5509f41a8aa9",
+    "db8e022e91be3e55",
+    "4a2b7f38400060cb",
+    "24bbd111936baf17",
+    "d41d97733d093f0c",
+    "74ca136d7a2f3193",
+    "ff53ba479624f410",
+    "6caa71e52403e7b3",
+    "a15baf2dfdf160ef",
+    "2797a6e8cf51d4dd",
+    "7165677aeb8bbd78",
+    "6b958add46b2fa8b",
+    "25faccf4777ebe58",
+    "f92eccf07c2d7937",
+    "1abc0e5ec8ae3a88",
+    "ec7d1b684a1fa542",
+    "e6ea61c95b485799"
+  ]
+}
